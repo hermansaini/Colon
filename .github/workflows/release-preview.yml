@@ -1,0 +1,26 @@
+name: Build release preview
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: release-preview-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  preview:
+    runs-on: macos-26
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test and build
+        run: ./Scripts/ci.sh
+      - name: Package universal unsigned preview
+        run: ./Scripts/package-release.sh --unsigned
+      - name: Upload preview for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: Colon-unsigned-preview
+          path: |
+            Build/Releases/*.dmg
+            Build/Releases/*.sha256
+          if-no-files-found: error

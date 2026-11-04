@@ -1,0 +1,30 @@
+# macOS and Swift/Xcode local state
+.DS_Store
+.build/
+.swiftpm/
+DerivedData*/
+[Bb]uild/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Local credentials and signing material
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
+*.key
+
+# Private working notes and planning archive
+/Colon_Planning_Pack.zip
+/COLON_CODING_AGENT_SPEC.md
+/idea-honing.md
+/rough-idea.md
+/summary.md
+/implementation/
+/research/
+/design/

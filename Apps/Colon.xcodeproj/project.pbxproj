@@ -1,0 +1,488 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A10000000000000000000001 /* ColonMacApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000001 /* ColonMacApp.swift */; };
+		A10000000000000000000002 /* BuildInformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000002 /* BuildInformationView.swift */; };
+		A10000000000000000000003 /* InputMethodMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000003 /* InputMethodMain.swift */; };
+		A10000000000000000000004 /* ColonSettingsCore in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000001 /* ColonSettingsCore */; };
+		A10000000000000000000005 /* ColonEmojiData in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000002 /* ColonEmojiData */; };
+		A10000000000000000000006 /* ColonTokenization in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000003 /* ColonTokenization */; };
+		A10000000000000000000007 /* ColonSearch in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000004 /* ColonSearch */; };
+		A10000000000000000000008 /* ColonModels in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000005 /* ColonModels */; };
+		A10000000000000000000009 /* ColonPickerModels in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000006 /* ColonPickerModels */; };
+		A10000000000000000000010 /* CandidatePanelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000009 /* CandidatePanelController.swift */; };
+		A10000000000000000000011 /* SkinTonePanelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000010 /* SkinTonePanelController.swift */; };
+		A10000000000000000000012 /* SettingsSections.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000011 /* SettingsSections.swift */; };
+		A10000000000000000000013 /* ColonInputController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000012 /* ColonInputController.swift */; };
+		A10000000000000000000014 /* ColonInputMethodIcon.tiff in Resources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000014 /* ColonInputMethodIcon.tiff */; };
+		A10000000000000000000015 /* ColonSettingsCore in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000001 /* ColonSettingsCore */; };
+		A10000000000000000000016 /* ColonEmojiData in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000002 /* ColonEmojiData */; };
+		A10000000000000000000017 /* ColonTokenization in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000003 /* ColonTokenization */; };
+		A10000000000000000000018 /* ColonSearch in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000004 /* ColonSearch */; };
+		A10000000000000000000019 /* ColonModels in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000005 /* ColonModels */; };
+		A10000000000000000000020 /* ColonPickerModels in Frameworks */ = {isa = PBXBuildFile; productRef = Q10000000000000000000006 /* ColonPickerModels */; };
+		A10000000000000000000021 /* CandidatePanelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000009 /* CandidatePanelController.swift */; };
+		A10000000000000000000022 /* InputMethodTextClientAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000015 /* InputMethodTextClientAdapter.swift */; };
+		A10000000000000000000023 /* SkinTonePanelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000010 /* SkinTonePanelController.swift */; };
+		A10000000000000000000024 /* InputMethodInstallationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000016 /* InputMethodInstallationController.swift */; };
+		A10000000000000000000025 /* ColonInputMethod.app in Embed Input Method */ = {isa = PBXBuildFile; fileRef = C10000000000000000000005 /* ColonInputMethod.app */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		A10000000000000000000026 /* ColonAppIcon.icns in Resources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000017 /* ColonAppIcon.icns */; };
+		A10000000000000000000027 /* Licenses in Resources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000019 /* Licenses */; };
+		A10000000000000000000028 /* Licenses in Resources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000019 /* Licenses */; };
+		A10000000000000000000029 /* CompanionTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000000000000000000020 /* CompanionTextField.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E10000000000000000000001 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = R10000000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = T10000000000000000000002;
+			remoteInfo = ColonInputMethod;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		P10000000000000000000007 /* Embed Input Method */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "Contents/Library/Input Methods";
+			dstSubfolderSpec = 1;
+			files = (
+				A10000000000000000000025 /* ColonInputMethod.app in Embed Input Method */,
+			);
+			name = "Embed Input Method";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		C10000000000000000000001 /* ColonMacApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/ColonMacApp.swift; sourceTree = "<group>"; };
+		C10000000000000000000002 /* BuildInformationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/BuildInformationView.swift; sourceTree = "<group>"; };
+		C10000000000000000000003 /* InputMethodMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Server/InputMethodMain.swift; sourceTree = "<group>"; };
+		C10000000000000000000004 /* Colon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Colon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C10000000000000000000005 /* ColonInputMethod.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColonInputMethod.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C10000000000000000000006 /* Base.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Base.xcconfig; sourceTree = "<group>"; };
+		C10000000000000000000007 /* Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Debug.xcconfig; sourceTree = "<group>"; };
+		C10000000000000000000008 /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Release.xcconfig; sourceTree = "<group>"; };
+		C10000000000000000000009 /* CandidatePanelController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/CandidatePanelController.swift; sourceTree = "<group>"; };
+		C10000000000000000000010 /* SkinTonePanelController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/SkinTonePanelController.swift; sourceTree = "<group>"; };
+		C10000000000000000000011 /* SettingsSections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/SettingsSections.swift; sourceTree = "<group>"; };
+		C10000000000000000000012 /* ColonInputController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Server/ColonInputController.swift; sourceTree = "<group>"; };
+		C10000000000000000000013 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Resources/Info.plist; sourceTree = "<group>"; };
+		C10000000000000000000014 /* ColonInputMethodIcon.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = Resources/ColonInputMethodIcon.tiff; sourceTree = "<group>"; };
+		C10000000000000000000015 /* InputMethodTextClientAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Server/InputMethodTextClientAdapter.swift; sourceTree = "<group>"; };
+		C10000000000000000000016 /* InputMethodInstallationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/InputMethodInstallationController.swift; sourceTree = "<group>"; };
+		C10000000000000000000017 /* ColonAppIcon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Resources/ColonAppIcon.icns; sourceTree = "<group>"; };
+		C10000000000000000000018 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Resources/Info.plist; sourceTree = "<group>"; };
+		C10000000000000000000019 /* Licenses */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ../Resources/Licenses; sourceTree = "<group>"; };
+		C10000000000000000000020 /* CompanionTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/CompanionTextField.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		P10000000000000000000002 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000009 /* ColonPickerModels in Frameworks */,
+				A10000000000000000000008 /* ColonModels in Frameworks */,
+				A10000000000000000000007 /* ColonSearch in Frameworks */,
+				A10000000000000000000006 /* ColonTokenization in Frameworks */,
+				A10000000000000000000005 /* ColonEmojiData in Frameworks */,
+				A10000000000000000000004 /* ColonSettingsCore in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		P10000000000000000000005 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000020 /* ColonPickerModels in Frameworks */,
+				A10000000000000000000019 /* ColonModels in Frameworks */,
+				A10000000000000000000018 /* ColonSearch in Frameworks */,
+				A10000000000000000000017 /* ColonTokenization in Frameworks */,
+				A10000000000000000000016 /* ColonEmojiData in Frameworks */,
+				A10000000000000000000015 /* ColonSettingsCore in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D10000000000000000000001 = {
+			isa = PBXGroup;
+			children = (
+				D10000000000000000000002 /* ColonMacApp */,
+				D10000000000000000000003 /* ColonInputMethod */,
+				D10000000000000000000004 /* Configurations */,
+				D10000000000000000000005 /* Products */,
+				C10000000000000000000019 /* Licenses */,
+			);
+			sourceTree = "<group>";
+		};
+		D10000000000000000000002 /* ColonMacApp */ = {
+			isa = PBXGroup;
+			children = (
+				C10000000000000000000001 /* ColonMacApp.swift */,
+				C10000000000000000000002 /* BuildInformationView.swift */,
+				C10000000000000000000009 /* CandidatePanelController.swift */,
+				C10000000000000000000010 /* SkinTonePanelController.swift */,
+				C10000000000000000000011 /* SettingsSections.swift */,
+				C10000000000000000000020 /* CompanionTextField.swift */,
+				C10000000000000000000016 /* InputMethodInstallationController.swift */,
+				C10000000000000000000017 /* ColonAppIcon.icns */,
+				C10000000000000000000018 /* Info.plist */,
+			);
+			path = ColonMacApp;
+			sourceTree = "<group>";
+		};
+		D10000000000000000000003 /* ColonInputMethod */ = {
+			isa = PBXGroup;
+			children = (
+				C10000000000000000000003 /* InputMethodMain.swift */,
+				C10000000000000000000012 /* ColonInputController.swift */,
+				C10000000000000000000015 /* InputMethodTextClientAdapter.swift */,
+				C10000000000000000000013 /* Info.plist */,
+				C10000000000000000000014 /* ColonInputMethodIcon.tiff */,
+			);
+			path = ColonInputMethod;
+			sourceTree = "<group>";
+		};
+		D10000000000000000000004 /* Configurations */ = {
+			isa = PBXGroup;
+			children = (
+				C10000000000000000000006 /* Base.xcconfig */,
+				C10000000000000000000007 /* Debug.xcconfig */,
+				C10000000000000000000008 /* Release.xcconfig */,
+			);
+			path = Configurations;
+			sourceTree = "<group>";
+		};
+		D10000000000000000000005 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C10000000000000000000004 /* Colon.app */,
+				C10000000000000000000005 /* ColonInputMethod.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		T10000000000000000000001 /* ColonMacApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = L10000000000000000000002 /* Build configuration list for PBXNativeTarget "ColonMacApp" */;
+			buildPhases = (
+				P10000000000000000000001 /* Sources */,
+				P10000000000000000000002 /* Frameworks */,
+				P10000000000000000000003 /* Resources */,
+				P10000000000000000000007 /* Embed Input Method */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E10000000000000000000002 /* PBXTargetDependency */,
+			);
+			name = ColonMacApp;
+			packageProductDependencies = (
+				Q10000000000000000000001 /* ColonSettingsCore */,
+				Q10000000000000000000002 /* ColonEmojiData */,
+				Q10000000000000000000003 /* ColonTokenization */,
+				Q10000000000000000000004 /* ColonSearch */,
+				Q10000000000000000000005 /* ColonModels */,
+				Q10000000000000000000006 /* ColonPickerModels */,
+			);
+			productName = ColonMacApp;
+			productReference = C10000000000000000000004 /* Colon.app */;
+			productType = "com.apple.product-type.application";
+		};
+		T10000000000000000000002 /* ColonInputMethod */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = L10000000000000000000003 /* Build configuration list for PBXNativeTarget "ColonInputMethod" */;
+			buildPhases = (
+				P10000000000000000000004 /* Sources */,
+				P10000000000000000000005 /* Frameworks */,
+				P10000000000000000000006 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ColonInputMethod;
+			packageProductDependencies = (
+				Q10000000000000000000001 /* ColonSettingsCore */,
+				Q10000000000000000000002 /* ColonEmojiData */,
+				Q10000000000000000000003 /* ColonTokenization */,
+				Q10000000000000000000004 /* ColonSearch */,
+				Q10000000000000000000005 /* ColonModels */,
+				Q10000000000000000000006 /* ColonPickerModels */,
+			);
+			productName = ColonInputMethod;
+			productReference = C10000000000000000000005 /* ColonInputMethod.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		R10000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2650;
+				LastUpgradeCheck = 2650;
+				TargetAttributes = {
+					T10000000000000000000001 = {
+						CreatedOnToolsVersion = 26.5;
+					};
+					T10000000000000000000002 = {
+						CreatedOnToolsVersion = 26.5;
+					};
+				};
+			};
+			buildConfigurationList = L10000000000000000000001 /* Build configuration list for PBXProject "Colon" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D10000000000000000000001;
+			packageReferences = (
+				K10000000000000000000001 /* XCLocalSwiftPackageReference "../Packages/ColonSettingsCore" */,
+				K10000000000000000000002 /* XCLocalSwiftPackageReference "../Packages/ColonEmojiData" */,
+				K10000000000000000000003 /* XCLocalSwiftPackageReference "../Packages/ColonTokenization" */,
+				K10000000000000000000004 /* XCLocalSwiftPackageReference "../Packages/ColonSearch" */,
+				K10000000000000000000005 /* XCLocalSwiftPackageReference "../Packages/ColonModels" */,
+				K10000000000000000000006 /* XCLocalSwiftPackageReference "../Packages/ColonPickerModels" */,
+			);
+			productRefGroup = D10000000000000000000005 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				T10000000000000000000001 /* ColonMacApp */,
+				T10000000000000000000002 /* ColonInputMethod */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		P10000000000000000000003 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000026 /* ColonAppIcon.icns in Resources */,
+				A10000000000000000000027 /* Licenses in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		P10000000000000000000006 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000014 /* ColonInputMethodIcon.tiff in Resources */,
+				A10000000000000000000028 /* Licenses in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		P10000000000000000000001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000001 /* ColonMacApp.swift in Sources */,
+				A10000000000000000000002 /* BuildInformationView.swift in Sources */,
+				A10000000000000000000010 /* CandidatePanelController.swift in Sources */,
+				A10000000000000000000011 /* SkinTonePanelController.swift in Sources */,
+				A10000000000000000000012 /* SettingsSections.swift in Sources */,
+				A10000000000000000000029 /* CompanionTextField.swift in Sources */,
+				A10000000000000000000024 /* InputMethodInstallationController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		P10000000000000000000004 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000003 /* InputMethodMain.swift in Sources */,
+				A10000000000000000000013 /* ColonInputController.swift in Sources */,
+				A10000000000000000000022 /* InputMethodTextClientAdapter.swift in Sources */,
+				A10000000000000000000021 /* CandidatePanelController.swift in Sources */,
+				A10000000000000000000023 /* SkinTonePanelController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E10000000000000000000002 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = T10000000000000000000002 /* ColonInputMethod */;
+			targetProxy = E10000000000000000000001 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F10000000000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C10000000000000000000007 /* Debug.xcconfig */;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F10000000000000000000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C10000000000000000000008 /* Release.xcconfig */;
+			buildSettings = {
+			};
+			name = Release;
+		};
+		F10000000000000000000003 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = ColonMacApp/Resources/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = "$(COLON_BUNDLE_ID_PREFIX).Colon";
+				PRODUCT_NAME = Colon;
+			};
+			name = Debug;
+		};
+		F10000000000000000000004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = ColonMacApp/Resources/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = "$(COLON_BUNDLE_ID_PREFIX).Colon";
+				PRODUCT_NAME = Colon;
+			};
+			name = Release;
+		};
+		F10000000000000000000005 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = ColonInputMethod/Resources/Info.plist;
+				MACH_O_TYPE = mh_execute;
+				PRODUCT_BUNDLE_IDENTIFIER = "$(COLON_BUNDLE_ID_PREFIX).inputmethod.Colon";
+				PRODUCT_NAME = ColonInputMethod;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F10000000000000000000006 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = ColonInputMethod/Resources/Info.plist;
+				MACH_O_TYPE = mh_execute;
+				PRODUCT_BUNDLE_IDENTIFIER = "$(COLON_BUNDLE_ID_PREFIX).inputmethod.Colon";
+				PRODUCT_NAME = ColonInputMethod;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		L10000000000000000000001 /* Build configuration list for PBXProject "Colon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F10000000000000000000001 /* Debug */,
+				F10000000000000000000002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		L10000000000000000000002 /* Build configuration list for PBXNativeTarget "ColonMacApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F10000000000000000000003 /* Debug */,
+				F10000000000000000000004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		L10000000000000000000003 /* Build configuration list for PBXNativeTarget "ColonInputMethod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F10000000000000000000005 /* Debug */,
+				F10000000000000000000006 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		K10000000000000000000001 /* XCLocalSwiftPackageReference "../Packages/ColonSettingsCore" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../Packages/ColonSettingsCore;
+		};
+		K10000000000000000000002 /* XCLocalSwiftPackageReference "../Packages/ColonEmojiData" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../Packages/ColonEmojiData;
+		};
+		K10000000000000000000003 /* XCLocalSwiftPackageReference "../Packages/ColonTokenization" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../Packages/ColonTokenization;
+		};
+		K10000000000000000000004 /* XCLocalSwiftPackageReference "../Packages/ColonSearch" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../Packages/ColonSearch;
+		};
+		K10000000000000000000005 /* XCLocalSwiftPackageReference "../Packages/ColonModels" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../Packages/ColonModels;
+		};
+		K10000000000000000000006 /* XCLocalSwiftPackageReference "../Packages/ColonPickerModels" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../Packages/ColonPickerModels;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		Q10000000000000000000001 /* ColonSettingsCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = K10000000000000000000001 /* XCLocalSwiftPackageReference "../Packages/ColonSettingsCore" */;
+			productName = ColonSettingsCore;
+		};
+		Q10000000000000000000002 /* ColonEmojiData */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = K10000000000000000000002 /* XCLocalSwiftPackageReference "../Packages/ColonEmojiData" */;
+			productName = ColonEmojiData;
+		};
+		Q10000000000000000000003 /* ColonTokenization */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = K10000000000000000000003 /* XCLocalSwiftPackageReference "../Packages/ColonTokenization" */;
+			productName = ColonTokenization;
+		};
+		Q10000000000000000000004 /* ColonSearch */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = K10000000000000000000004 /* XCLocalSwiftPackageReference "../Packages/ColonSearch" */;
+			productName = ColonSearch;
+		};
+		Q10000000000000000000005 /* ColonModels */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = K10000000000000000000005 /* XCLocalSwiftPackageReference "../Packages/ColonModels" */;
+			productName = ColonModels;
+		};
+		Q10000000000000000000006 /* ColonPickerModels */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = K10000000000000000000006 /* XCLocalSwiftPackageReference "../Packages/ColonPickerModels" */;
+			productName = ColonPickerModels;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = R10000000000000000000001 /* Project object */;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace version="1.0">
+   <FileRef location="group:Apps/Colon.xcodeproj">
+   </FileRef>
+   <Group location="container:" name="Packages">
+      <FileRef location="group:Packages/ColonModels">
+      </FileRef>
+      <FileRef location="group:Packages/ColonEmojiData">
+      </FileRef>
+      <FileRef location="group:Packages/ColonSearch">
+      </FileRef>
+      <FileRef location="group:Packages/ColonTokenization">
+      </FileRef>
+      <FileRef location="group:Packages/ColonSettingsCore">
+      </FileRef>
+      <FileRef location="group:Packages/ColonPickerModels">
+      </FileRef>
+   </Group>
+</Workspace>

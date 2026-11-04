@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Colon local typing checks</title>
+<style>
+body { font: 16px system-ui; max-width: 860px; margin: 40px auto; padding: 0 24px; color: #222; background: #fafafa; }
+h1 { font-size: 28px; } label { display: block; margin-top: 24px; font-weight: 600; }
+input, textarea, [contenteditable] { box-sizing: border-box; width: 100%; padding: 14px; margin-top: 8px; border: 1px solid #bbb; border-radius: 8px; background: white; font: 18px system-ui; }
+textarea, [contenteditable] { min-height: 120px; } code { background: #eee; padding: 2px 4px; }
+li { margin: 10px 0; }
+</style>
+<h1>Colon typing checks</h1>
+<p>A local fixture for Chrome and Safari. This page has no JavaScript, forms, storage, or network resources.</p>
+<ol>
+<li>Type an ordinary sentence quickly. Every character should appear once.</li>
+<li>Type <code>hello :fire</code>, press Enter. Expect <code>hello 🔥</code>. Undo once and verify the host’s undo behavior.</li>
+<li>Type <code>:wave</code>, press Tab repeatedly, then Enter. Repeat and commit with a closing colon; check that the chosen tone is inserted and remembered.</li>
+<li>Type <code>:fire</code>, append <code>zzzzzz</code>, then delete back to <code>:</code>. The existing popup should stay visible with disabled rows. Retype <code>wave</code>; results should become selectable again. Escape should still dismiss it.</li>
+<li>Check that the compact popup sits above the caret, moves below near the top edge, and follows the caret on another display.</li>
+<li>Type <code>:fire</code>, press Escape, then keep typing. The picker should stay dismissed until a new token boundary.</li>
+<li>Type <code>before :fire after</code>, click immediately after <code>:fire</code>, then Enter. Text on both sides should survive.</li>
+<li>While a picker is visible, try Command-arrow, Option-arrow, Shift-Tab, and app switching. Native shortcuts and focus should keep working.</li>
+<li>Disable Colon in settings while a picker is showing; it should close, and ordinary typing should continue.</li>
+</ol>
+<label for="plain">Plain single-line input</label>
+<input id="plain" autocomplete="off" spellcheck="false">
+<label for="multiline">Multiline input</label>
+<textarea id="multiline" autocomplete="off" spellcheck="false"></textarea>
+<label for="rich">Rich editor</label>
+<div id="rich" contenteditable="true" role="textbox" aria-multiline="true" aria-label="Rich editor" spellcheck="false"></div>
+<label for="protected">Password input — use the synthetic string :fire only</label>
+<input id="protected" type="password" autocomplete="new-password">
+<p>The password field should never display Colon candidates or replace its contents.</p>
+</html>

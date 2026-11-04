@@ -1,0 +1,43 @@
+{
+  "entries" : {
+    "1f44a" : {
+      "alternateAliases" : [
+        "oncoming_fist",
+        "fist_oncoming",
+        "punch",
+        "facepunch"
+      ],
+      "canonicalAlias" : "fist",
+      "excludedAliases" : [],
+      "tags" : []
+    },
+    "1f44d" : {
+      "alternateAliases" : [
+        "+1",
+        "thumbsup"
+      ],
+      "canonicalAlias" : "thumbs_up",
+      "excludedAliases" : [],
+      "tags" : []
+    },
+    "270a" : {
+      "alternateAliases" : [],
+      "canonicalAlias" : "raised_fist",
+      "excludedAliases" : [
+        "fist"
+      ],
+      "tags" : []
+    },
+    "1f48f" : {
+      "alternateAliases" : [
+        "couplekiss"
+      ],
+      "canonicalAlias" : "couple_kiss",
+      "excludedAliases" : [
+        "kiss"
+      ],
+      "tags" : []
+    }
+  },
+  "schemaVersion" : 1
+}

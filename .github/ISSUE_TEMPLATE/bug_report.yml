@@ -1,0 +1,25 @@
+name: Bug report
+description: Report input, settings, installation, or performance issues
+title: '[Bug] '
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Colon version, macOS build, processor, affected app and version, and install location.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction and expected behavior
+      description: Use synthetic text only. Never include passwords, private messages, or clipboard contents.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Include whether ordinary typing, app switching, or secure fields are affected.
+    validations:
+      required: true

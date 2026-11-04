@@ -1,0 +1,70 @@
+[
+  {
+    "alternateAliases" : [
+      "grinning"
+    ],
+    "canonicalAlias" : "grinning_face",
+    "canonicalName" : "grinning face",
+    "category" : "smileysAndEmotion",
+    "emoji" : "😀",
+    "id" : "1f600",
+    "skinToneVariantCount" : 1
+  },
+  {
+    "alternateAliases" : [
+      "+1",
+      "thumbsup"
+    ],
+    "canonicalAlias" : "thumbs_up",
+    "canonicalName" : "thumbs up",
+    "category" : "peopleAndBody",
+    "emoji" : "👍",
+    "id" : "1f44d",
+    "skinToneVariantCount" : 6
+  },
+  {
+    "alternateAliases" : [
+      "oncoming_fist",
+      "fist_oncoming",
+      "facepunch",
+      "punch"
+    ],
+    "canonicalAlias" : "fist",
+    "canonicalName" : "oncoming fist",
+    "category" : "peopleAndBody",
+    "emoji" : "👊",
+    "id" : "1f44a",
+    "skinToneVariantCount" : 6
+  },
+  {
+    "alternateAliases" : [],
+    "canonicalAlias" : "family_man_woman_girl",
+    "canonicalName" : "family: man, woman, girl",
+    "category" : "peopleAndBody",
+    "emoji" : "👨‍👩‍👧",
+    "id" : "1f468-200d-1f469-200d-1f467",
+    "skinToneVariantCount" : 1
+  },
+  {
+    "alternateAliases" : [
+      "one"
+    ],
+    "canonicalAlias" : "keycap_1",
+    "canonicalName" : "keycap: 1",
+    "category" : "symbols",
+    "emoji" : "1️⃣",
+    "id" : "31-20e3",
+    "skinToneVariantCount" : 1
+  },
+  {
+    "alternateAliases" : [
+      "us"
+    ],
+    "canonicalAlias" : "flag_united_states",
+    "canonicalName" : "flag: United States",
+    "category" : "flags",
+    "emoji" : "🇺🇸",
+    "id" : "1f1fa-1f1f8",
+    "skinToneVariantCount" : 1
+  }
+]
