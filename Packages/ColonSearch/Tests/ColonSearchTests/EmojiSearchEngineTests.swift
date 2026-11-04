@@ -158,6 +158,9 @@ final class EmojiSearchEngineTests: XCTestCase {
     }
 
     func testWarmQueriesMeetLatencyTarget() throws {
+        #if DEBUG
+        throw XCTSkip("Measure latency in Release mode; Scripts/test-packages.sh runs this check separately.")
+        #else
         let dataset = try EmojiDataStore().load().dataset
         let engineBuildStartedAt = DispatchTime.now().uptimeNanoseconds
         let engine = EmojiSearchEngine(dataset: dataset)
@@ -193,6 +196,7 @@ final class EmojiSearchEngineTests: XCTestCase {
         ))
         XCTAssertLessThan(averageMilliseconds, 20)
         XCTAssertLessThan(p95Milliseconds, 5)
+        #endif
     }
 
     private func makeEngine(

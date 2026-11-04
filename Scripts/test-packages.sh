@@ -16,6 +16,11 @@ do
     swift test --package-path "${root_directory}/Packages/${package}"
 done
 
+echo "==> Testing search latency in Release mode"
+swift test -c release \
+    --package-path "${root_directory}/Packages/ColonSearch" \
+    --filter EmojiSearchEngineTests.testWarmQueriesMeetLatencyTarget
+
 echo "==> Testing desktop integration"
 swift test --package-path "${root_directory}"
 

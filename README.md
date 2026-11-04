@@ -196,6 +196,8 @@ swift run -c release ColonBenchmark
 
 CI tests the six core packages, the desktop companion, and emoji generator;
 checks reproducible data; builds both unsigned apps; and validates their bundles.
+Functional tests run in debug mode; the search latency check runs separately in
+Release mode with the same 5 ms p95 target.
 The benchmark measures dataset load, index construction, and 1,500 synthetic warm
 queries. Open `Colon.xcworkspace` to develop the apps in Xcode.
 
