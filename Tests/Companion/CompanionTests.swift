@@ -27,6 +27,28 @@ struct CompanionModelTests {
         model.testFieldSelectionChanged(TextSelection(range: end..<end))
     }
 
+    @Test func menuBarVisibilityFeedbackDoesNotRepublishSettings() async {
+        let (model, paths) = makeModel()
+        defer { try? FileManager.default.removeItem(at: paths.rootDirectoryURL) }
+        await model.waitForInitialLoad()
+        var publications = 0
+        let observation = model.objectWillChange.sink { publications += 1 }
+        let initial = model.menuBarVisible
+        for _ in 0..<20 { model.setMenuBarVisible(initial) }
+        await model.waitForPendingSettingsWrites()
+        #expect(publications == 0)
+
+        model.setMenuBarVisible(!initial)
+        await model.waitForPendingSettingsWrites()
+        #expect(model.menuBarVisible == !initial)
+        #expect(publications > 0)
+        publications = 0
+        for _ in 0..<20 { model.setMenuBarVisible(!initial) }
+        await model.waitForPendingSettingsWrites()
+        #expect(publications == 0)
+        _ = observation
+    }
+
     @Test func nativeFieldTabCyclesTonesWithoutLeavingTheField() async throws {
         let (model, paths) = makeModel()
         defer { try? FileManager.default.removeItem(at: paths.rootDirectoryURL) }

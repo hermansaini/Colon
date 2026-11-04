@@ -646,6 +646,9 @@ final class BuildInformationViewModel: ObservableObject {
     }
 
     func setMenuBarVisible(_ visible: Bool) {
+        // MenuBarExtra writes its current visibility back during scene updates.
+        // Republishing an unchanged value starts another scene update indefinitely.
+        guard visible != menuBarVisible else { return }
         persistSettings { $0.menuBarVisible = visible }
     }
 
