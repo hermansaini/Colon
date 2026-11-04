@@ -12,6 +12,25 @@ enum CompanionSettingsTab: Hashable {
     case about
 }
 
+/// Matches the two-dot mark and indigo background of ColonAppIcon.svg.
+private struct ColonLogo: View {
+    let size: CGFloat
+
+    var body: some View {
+        ZStack {
+            RoundedRectangle(cornerRadius: size * 220 / 864)
+                .fill(Color(red: 79 / 255.0, green: 70 / 255.0, blue: 229 / 255.0))
+            VStack(spacing: size * 120 / 864) {
+                Circle().frame(width: size * 192 / 864, height: size * 192 / 864)
+                Circle().frame(width: size * 192 / 864, height: size * 192 / 864)
+            }
+            .foregroundStyle(.white)
+        }
+        .frame(width: size, height: size)
+        .accessibilityLabel("Colon logo")
+    }
+}
+
 @MainActor
 struct CompanionSettingsView: View {
     @ObservedObject var viewModel: BuildInformationViewModel
@@ -21,9 +40,7 @@ struct CompanionSettingsView: View {
     var body: some View {
         VStack(spacing: 0) {
             HStack(spacing: 12) {
-                Image(systemName: "coloncurrencysign.circle.fill")
-                    .font(.system(size: 36))
-                    .foregroundStyle(.tint)
+                ColonLogo(size: 40)
                 VStack(alignment: .leading, spacing: 2) {
                     Text("Colon")
                         .font(.title.bold())
@@ -387,9 +404,7 @@ private struct AboutSettingsSection: View {
 
     var body: some View {
         VStack(spacing: 16) {
-            Image(systemName: "coloncurrencysign.circle.fill")
-                .font(.system(size: 72))
-                .foregroundStyle(.tint)
+            ColonLogo(size: 80)
             Text("Colon")
                 .font(.largeTitle.bold())
             Text("Version \(version) (\(build))")
