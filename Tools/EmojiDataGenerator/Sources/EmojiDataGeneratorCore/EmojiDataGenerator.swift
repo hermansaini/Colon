@@ -67,6 +67,7 @@ public struct EmojiDataGenerator: Sendable {
             try requiredData(.cldrDerivedAnnotations, in: sourceData),
         ])
         let gemojiByID = try GemojiParser.parse(try requiredData(.gemoji, in: sourceData))
+        let slackTagsByID = try SlackEmojiDataParser.parse(try requiredData(.slackEmojiData, in: sourceData))
         var gemojiAliasOwners: [String: String] = [:]
         for (emojiID, record) in gemojiByID {
             for alias in record.aliases.map(EmojiTermNormalizer.normalize) where alias.isEmpty == false {
@@ -172,6 +173,7 @@ public struct EmojiDataGenerator: Sendable {
             var tags = annotation?.tags.map(EmojiTermNormalizer.normalize) ?? []
             tags.append(contentsOf: gemoji?.tags.map(EmojiTermNormalizer.normalize) ?? [])
             tags.append(contentsOf: override?.tags.map(EmojiTermNormalizer.normalize) ?? [])
+            tags.append(contentsOf: slackTagsByID[emojiID] ?? [])
             let aliasSet = Set([canonicalAlias] + alternateAliases)
             tags = stableUnique(tags).filter { $0.isEmpty == false && aliasSet.contains($0) == false }
 
@@ -341,6 +343,13 @@ public struct EmojiDataGenerator: Sendable {
         The alias/tag snapshot comes from GitHub's `gemoji` project at commit `\(configuration.gemojiCommit)`, distributed under the MIT License included at `Vendor/gemoji/\(configuration.gemojiCommit)/LICENSE`.
 
         - Repository: <https://github.com/github/gemoji>
+
+        ## Slack-compatible emoji-data shortcodes
+
+        Standard Slack-compatible shortcode metadata comes from `iamcal/emoji-data` at commit `e77759c296ed37beb0dbd63908b43d8619509c6d`, under the MIT License in `Vendor/emoji-data/e77759c296ed37beb0dbd63908b43d8619509c6d/LICENSE`. Only metadata is bundled, not emoji artwork. Existing aliases and tags are preserved; additional shortcodes are deduplicated search tags.
+
+        - Repository: <https://github.com/iamcal/emoji-data>
+        - Slack source reference: <https://docs.slack.dev/messaging/formatting-message-text/>
 
         Exact source paths and SHA-256 checksums are recorded in `Vendor/SOURCES.md` and `Resources/Generated/emoji-index.provenance.json`.
         """ + "\n"

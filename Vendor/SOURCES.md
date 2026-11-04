@@ -26,3 +26,13 @@ Repository: <https://github.com/github/gemoji>
 - Commit: `0eca75db9301421efc8710baf7a7576793ae452a`
 - `db/emoji.json` — `b174ae2aeb321b52f64adb9ff412f966a7f338839d780784dd15dcad702c2dd6`
 - License: `Vendor/gemoji/0eca75db9301421efc8710baf7a7576793ae452a/LICENSE`
+
+## Slack-compatible emoji-data
+
+- Repository: <https://github.com/iamcal/emoji-data>
+- Commit: `e77759c296ed37beb0dbd63908b43d8619509c6d`
+- `emoji.json` — `8736d721991e48c41c57acc46b65e5d32258a45e4bcdebcc6012f420f81e775d`
+- License: `Vendor/emoji-data/e77759c296ed37beb0dbd63908b43d8619509c6d/LICENSE`
+- Standard shortcodes are merged into existing searchable terms by Unicode identity.
+  Existing aliases retain priority; workspace custom emoji and standalone skin-tone
+  modifier entries are outside Colon's base-emoji dataset.

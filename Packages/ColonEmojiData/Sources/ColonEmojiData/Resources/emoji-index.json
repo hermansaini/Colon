@@ -412,7 +412,8 @@
         "romance",
         "smile",
         "smiling",
-        "you"
+        "you",
+        "smiling_face_with_3_hearts"
       ]
     },
     {
@@ -467,7 +468,8 @@
         "smile",
         "star",
         "starry-eyed",
-        "wow"
+        "wow",
+        "grinning_face_with_star_eyes"
       ]
     },
     {
@@ -750,7 +752,8 @@
         "large",
         "small",
         "zany",
-        "wacky"
+        "wacky",
+        "grinning_face_with_one_large_and_one_small_eye"
       ]
     },
     {
@@ -824,7 +827,8 @@
         "hug",
         "hugging",
         "open",
-        "smiling"
+        "smiling",
+        "hugging_face"
       ]
     },
     {
@@ -853,7 +857,8 @@
         "sudden",
         "surprise",
         "whoops",
-        "quiet"
+        "quiet",
+        "smiling_face_with_smiling_eyes_and_hand_covering_mouth"
       ]
     },
     {
@@ -935,7 +940,8 @@
         "shh",
         "shush",
         "shushing",
-        "silence"
+        "silence",
+        "face_with_finger_covering_closed_lips"
       ]
     },
     {
@@ -1043,7 +1049,8 @@
         "skepticism",
         "surprise",
         "what",
-        "suspicious"
+        "suspicious",
+        "face_with_one_eyebrow_raised"
       ]
     },
     {
@@ -1664,7 +1671,8 @@
         "throw",
         "up",
         "vomit",
-        "vomiting"
+        "vomiting",
+        "face_with_open_mouth_vomiting"
       ]
     },
     {
@@ -1846,7 +1854,8 @@
         "mindblown",
         "no",
         "shocked",
-        "way"
+        "way",
+        "shocked_face_with_exploding_head"
       ]
     },
     {
@@ -1866,7 +1875,8 @@
         "cowboy",
         "cowgirl",
         "face",
-        "hat"
+        "hat",
+        "face_with_cowboy_hat"
       ]
     },
     {
@@ -2124,7 +2134,7 @@
       ],
       "sortOrder" : 80,
       "tags" : [
-
+        "white_frowning_face"
       ]
     },
     {
@@ -2825,7 +2835,8 @@
         "pissed",
         "swearing",
         "symbols",
-        "foul"
+        "foul",
+        "serious_face_with_symbols_covering_mouth"
       ]
     },
     {
@@ -3139,7 +3150,8 @@
       "sortOrder" : 118,
       "tags" : [
         "face",
-        "monster"
+        "monster",
+        "robot_face"
       ]
     },
     {
@@ -3695,7 +3707,7 @@
       ],
       "sortOrder" : 140,
       "tags" : [
-
+        "heavy_heart_exclamation_mark_ornament"
       ]
     },
     {
@@ -4280,7 +4292,7 @@
       ],
       "sortOrder" : 166,
       "tags" : [
-
+        "eye-in-speech-bubble"
       ]
     },
     {
@@ -4509,7 +4521,8 @@
         "salute",
         "vulcan",
         "prosper",
-        "spock"
+        "spock",
+        "spock-hand"
       ]
     },
     {
@@ -4852,7 +4865,8 @@
         "fingers",
         "hand",
         "luck",
-        "hopeful"
+        "hopeful",
+        "hand_with_index_and_middle_fingers_crossed"
       ]
     },
     {
@@ -4913,7 +4927,8 @@
         "love",
         "love-you",
         "three",
-        "you"
+        "you",
+        "i_love_you_hand_sign"
       ]
     },
     {
@@ -4939,7 +4954,8 @@
         "hand",
         "horns",
         "rock-on",
-        "sign"
+        "sign",
+        "the_horns"
       ]
     },
     {
@@ -5074,7 +5090,8 @@
       "tags" : [
         "finger",
         "hand",
-        "middle"
+        "middle",
+        "reversed_hand_with_middle_finger_extended"
       ]
     },
     {
@@ -6230,7 +6247,8 @@
         "blond",
         "blond-haired",
         "human",
-        "person"
+        "person",
+        "person_with_blond_hair"
       ]
     },
     {
@@ -6303,7 +6321,7 @@
       ],
       "sortOrder" : 240,
       "tags" : [
-
+        "man_with_beard"
       ]
     },
     {
@@ -6325,7 +6343,7 @@
       ],
       "sortOrder" : 241,
       "tags" : [
-
+        "woman_with_beard"
       ]
     },
     {
@@ -6498,7 +6516,8 @@
       "tags" : [
         "adult",
         "person",
-        "red_hair"
+        "red_hair",
+        "red_haired_person"
       ]
     },
     {
@@ -6547,7 +6566,8 @@
       "tags" : [
         "adult",
         "curly_hair",
-        "person"
+        "person",
+        "curly_haired_person"
       ]
     },
     {
@@ -6596,7 +6616,8 @@
       "tags" : [
         "adult",
         "person",
-        "white_hair"
+        "white_hair",
+        "white_haired_person"
       ]
     },
     {
@@ -6645,7 +6666,8 @@
       "tags" : [
         "adult",
         "bald",
-        "person"
+        "person",
+        "bald_person"
       ]
     },
     {
@@ -6668,7 +6690,7 @@
       ],
       "sortOrder" : 255,
       "tags" : [
-
+        "blond-haired-woman"
       ]
     },
     {
@@ -6690,7 +6712,7 @@
       ],
       "sortOrder" : 256,
       "tags" : [
-
+        "blond-haired-man"
       ]
     },
     {
@@ -6831,7 +6853,7 @@
       ],
       "sortOrder" : 261,
       "tags" : [
-
+        "man-frowning"
       ]
     },
     {
@@ -6853,7 +6875,7 @@
       ],
       "sortOrder" : 262,
       "tags" : [
-
+        "woman-frowning"
       ]
     },
     {
@@ -6884,7 +6906,8 @@
         "scowl",
         "sulk",
         "upset",
-        "whine"
+        "whine",
+        "person_with_pouting_face"
       ]
     },
     {
@@ -6906,7 +6929,7 @@
       ],
       "sortOrder" : 264,
       "tags" : [
-
+        "man-pouting"
       ]
     },
     {
@@ -6928,7 +6951,7 @@
       ],
       "sortOrder" : 265,
       "tags" : [
-
+        "woman-pouting"
       ]
     },
     {
@@ -6984,7 +7007,8 @@
       "tags" : [
         "stop",
         "halt",
-        "denied"
+        "denied",
+        "man-gesturing-no"
       ]
     },
     {
@@ -7009,7 +7033,8 @@
       "tags" : [
         "stop",
         "halt",
-        "denied"
+        "denied",
+        "woman-gesturing-no"
       ]
     },
     {
@@ -7037,7 +7062,8 @@
         "hand",
         "ok",
         "omg",
-        "person"
+        "person",
+        "ok_woman"
       ]
     },
     {
@@ -7059,7 +7085,7 @@
       ],
       "sortOrder" : 270,
       "tags" : [
-
+        "man-gesturing-ok"
       ]
     },
     {
@@ -7081,7 +7107,7 @@
       ],
       "sortOrder" : 271,
       "tags" : [
-
+        "woman-gesturing-ok"
       ]
     },
     {
@@ -7138,7 +7164,8 @@
       ],
       "sortOrder" : 273,
       "tags" : [
-        "information"
+        "information",
+        "man-tipping-hand"
       ]
     },
     {
@@ -7161,7 +7188,8 @@
       ],
       "sortOrder" : 274,
       "tags" : [
-        "information"
+        "information",
+        "woman-tipping-hand"
       ]
     },
     {
@@ -7214,7 +7242,7 @@
       ],
       "sortOrder" : 276,
       "tags" : [
-
+        "man-raising-hand"
       ]
     },
     {
@@ -7236,7 +7264,7 @@
       ],
       "sortOrder" : 277,
       "tags" : [
-
+        "woman-raising-hand"
       ]
     },
     {
@@ -7366,7 +7394,8 @@
       "sortOrder" : 282,
       "tags" : [
         "respect",
-        "thanks"
+        "thanks",
+        "man-bowing"
       ]
     },
     {
@@ -7389,7 +7418,8 @@
       "sortOrder" : 283,
       "tags" : [
         "respect",
-        "thanks"
+        "thanks",
+        "woman-bowing"
       ]
     },
     {
@@ -7421,7 +7451,8 @@
         "omg",
         "person",
         "shock",
-        "smh"
+        "smh",
+        "face_palm"
       ]
     },
     {
@@ -7443,7 +7474,7 @@
       ],
       "sortOrder" : 285,
       "tags" : [
-
+        "man-facepalming"
       ]
     },
     {
@@ -7465,7 +7496,7 @@
       ],
       "sortOrder" : 286,
       "tags" : [
-
+        "woman-facepalming"
       ]
     },
     {
@@ -7520,7 +7551,7 @@
       ],
       "sortOrder" : 288,
       "tags" : [
-
+        "man-shrugging"
       ]
     },
     {
@@ -7542,7 +7573,7 @@
       ],
       "sortOrder" : 289,
       "tags" : [
-
+        "woman-shrugging"
       ]
     },
     {
@@ -7587,7 +7618,8 @@
       "sortOrder" : 291,
       "tags" : [
         "doctor",
-        "nurse"
+        "nurse",
+        "male-doctor"
       ]
     },
     {
@@ -7610,7 +7642,8 @@
       "sortOrder" : 292,
       "tags" : [
         "doctor",
-        "nurse"
+        "nurse",
+        "female-doctor"
       ]
     },
     {
@@ -7657,7 +7690,8 @@
         "graduate",
         "man",
         "student",
-        "graduation"
+        "graduation",
+        "male-student"
       ]
     },
     {
@@ -7682,7 +7716,8 @@
         "graduate",
         "student",
         "woman",
-        "graduation"
+        "graduation",
+        "female-student"
       ]
     },
     {
@@ -7733,7 +7768,8 @@
         "man",
         "professor",
         "teacher",
-        "school"
+        "school",
+        "male-teacher"
       ]
     },
     {
@@ -7760,7 +7796,8 @@
         "professor",
         "teacher",
         "woman",
-        "school"
+        "school",
+        "female-teacher"
       ]
     },
     {
@@ -7804,7 +7841,8 @@
       ],
       "sortOrder" : 300,
       "tags" : [
-        "justice"
+        "justice",
+        "male-judge"
       ]
     },
     {
@@ -7826,7 +7864,8 @@
       ],
       "sortOrder" : 301,
       "tags" : [
-        "justice"
+        "justice",
+        "female-judge"
       ]
     },
     {
@@ -7874,7 +7913,8 @@
         "farmer",
         "gardener",
         "man",
-        "rancher"
+        "rancher",
+        "male-farmer"
       ]
     },
     {
@@ -7899,7 +7939,8 @@
         "farmer",
         "gardener",
         "rancher",
-        "woman"
+        "woman",
+        "female-farmer"
       ]
     },
     {
@@ -7945,7 +7986,8 @@
       "tags" : [
         "chef",
         "cook",
-        "man"
+        "man",
+        "male-cook"
       ]
     },
     {
@@ -7969,7 +8011,8 @@
       "tags" : [
         "chef",
         "cook",
-        "woman"
+        "woman",
+        "female-cook"
       ]
     },
     {
@@ -8019,7 +8062,8 @@
         "man",
         "mechanic",
         "plumber",
-        "tradesperson"
+        "tradesperson",
+        "male-mechanic"
       ]
     },
     {
@@ -8045,7 +8089,8 @@
         "mechanic",
         "plumber",
         "tradesperson",
-        "woman"
+        "woman",
+        "female-mechanic"
       ]
     },
     {
@@ -8096,7 +8141,8 @@
         "factory",
         "industrial",
         "man",
-        "worker"
+        "worker",
+        "male-factory-worker"
       ]
     },
     {
@@ -8122,7 +8168,8 @@
         "factory",
         "industrial",
         "woman",
-        "worker"
+        "worker",
+        "female-factory-worker"
       ]
     },
     {
@@ -8177,7 +8224,8 @@
         "manager",
         "office",
         "white-collar",
-        "worker"
+        "worker",
+        "male-office-worker"
       ]
     },
     {
@@ -8205,7 +8253,8 @@
         "office",
         "white-collar",
         "woman",
-        "worker"
+        "worker",
+        "female-office-worker"
       ]
     },
     {
@@ -8260,7 +8309,8 @@
         "mathematician",
         "physicist",
         "scientist",
-        "research"
+        "research",
+        "male-scientist"
       ]
     },
     {
@@ -8289,7 +8339,8 @@
         "physicist",
         "scientist",
         "woman",
-        "research"
+        "research",
+        "female-scientist"
       ]
     },
     {
@@ -8343,7 +8394,8 @@
         "inventor",
         "man",
         "software",
-        "technologist"
+        "technologist",
+        "male-technologist"
       ]
     },
     {
@@ -8371,7 +8423,8 @@
         "inventor",
         "software",
         "technologist",
-        "woman"
+        "woman",
+        "female-technologist"
       ]
     },
     {
@@ -8425,7 +8478,8 @@
         "rock",
         "rockstar",
         "singer",
-        "star"
+        "star",
+        "male-singer"
       ]
     },
     {
@@ -8453,7 +8507,8 @@
         "rockstar",
         "singer",
         "star",
-        "woman"
+        "woman",
+        "female-singer"
       ]
     },
     {
@@ -8500,7 +8555,8 @@
         "artist",
         "man",
         "palette",
-        "painter"
+        "painter",
+        "male-artist"
       ]
     },
     {
@@ -8525,7 +8581,8 @@
         "artist",
         "palette",
         "woman",
-        "painter"
+        "painter",
+        "female-artist"
       ]
     },
     {
@@ -8569,7 +8626,7 @@
       ],
       "sortOrder" : 330,
       "tags" : [
-
+        "male-pilot"
       ]
     },
     {
@@ -8591,7 +8648,7 @@
       ],
       "sortOrder" : 331,
       "tags" : [
-
+        "female-pilot"
       ]
     },
     {
@@ -8639,7 +8696,8 @@
         "astronaut",
         "man",
         "rocket",
-        "space"
+        "space",
+        "male-astronaut"
       ]
     },
     {
@@ -8664,7 +8722,8 @@
         "astronaut",
         "rocket",
         "space",
-        "woman"
+        "woman",
+        "female-astronaut"
       ]
     },
     {
@@ -8712,7 +8771,8 @@
         "fire",
         "firefighter",
         "firetruck",
-        "man"
+        "man",
+        "male-firefighter"
       ]
     },
     {
@@ -8737,7 +8797,8 @@
         "fire",
         "firefighter",
         "firetruck",
-        "woman"
+        "woman",
+        "female-firefighter"
       ]
     },
     {
@@ -8790,7 +8851,8 @@
       "sortOrder" : 339,
       "tags" : [
         "law",
-        "cop"
+        "cop",
+        "male-police-officer"
       ]
     },
     {
@@ -8813,7 +8875,8 @@
       "sortOrder" : 340,
       "tags" : [
         "law",
-        "cop"
+        "cop",
+        "female-police-officer"
       ]
     },
     {
@@ -8835,7 +8898,8 @@
       ],
       "sortOrder" : 341,
       "tags" : [
-        "sleuth"
+        "sleuth",
+        "sleuth_or_spy"
       ]
     },
     {
@@ -8857,7 +8921,8 @@
       ],
       "sortOrder" : 342,
       "tags" : [
-        "sleuth"
+        "sleuth",
+        "male-detective"
       ]
     },
     {
@@ -8879,7 +8944,8 @@
       ],
       "sortOrder" : 343,
       "tags" : [
-        "sleuth"
+        "sleuth",
+        "female-detective"
       ]
     },
     {
@@ -8904,7 +8970,8 @@
         "buckingham",
         "helmet",
         "london",
-        "palace"
+        "palace",
+        "guardsman"
       ]
     },
     {
@@ -8926,7 +8993,7 @@
       ],
       "sortOrder" : 345,
       "tags" : [
-
+        "male-guard"
       ]
     },
     {
@@ -8948,7 +9015,7 @@
       ],
       "sortOrder" : 346,
       "tags" : [
-
+        "female-guard"
       ]
     },
     {
@@ -9036,7 +9103,8 @@
       ],
       "sortOrder" : 349,
       "tags" : [
-        "helmet"
+        "helmet",
+        "male-construction-worker"
       ]
     },
     {
@@ -9058,7 +9126,8 @@
       ],
       "sortOrder" : 350,
       "tags" : [
-        "helmet"
+        "helmet",
+        "female-construction-worker"
       ]
     },
     {
@@ -9168,7 +9237,8 @@
       "tags" : [
         "person",
         "turban",
-        "wearing"
+        "wearing",
+        "man_with_turban"
       ]
     },
     {
@@ -9190,7 +9260,7 @@
       ],
       "sortOrder" : 355,
       "tags" : [
-
+        "man-wearing-turban"
       ]
     },
     {
@@ -9212,7 +9282,7 @@
       ],
       "sortOrder" : 356,
       "tags" : [
-
+        "woman-wearing-turban"
       ]
     },
     {
@@ -9271,7 +9341,8 @@
         "kerchief",
         "mantilla",
         "tichel",
-        "woman"
+        "woman",
+        "person_with_headscarf"
       ]
     },
     {
@@ -9367,7 +9438,8 @@
         "person",
         "veil",
         "wedding",
-        "marriage"
+        "marriage",
+        "bride_with_veil"
       ]
     },
     {
@@ -9697,7 +9769,8 @@
         "mrs",
         "santa",
         "tale",
-        "xmas"
+        "xmas",
+        "mother_christmas"
       ]
     },
     {
@@ -9775,7 +9848,7 @@
       ],
       "sortOrder" : 377,
       "tags" : [
-
+        "male_superhero"
       ]
     },
     {
@@ -9797,7 +9870,7 @@
       ],
       "sortOrder" : 378,
       "tags" : [
-
+        "female_superhero"
       ]
     },
     {
@@ -9845,7 +9918,7 @@
       ],
       "sortOrder" : 380,
       "tags" : [
-
+        "male_supervillain"
       ]
     },
     {
@@ -9867,7 +9940,7 @@
       ],
       "sortOrder" : 381,
       "tags" : [
-
+        "female_supervillain"
       ]
     },
     {
@@ -9920,7 +9993,8 @@
       ],
       "sortOrder" : 383,
       "tags" : [
-        "wizard"
+        "wizard",
+        "male_mage"
       ]
     },
     {
@@ -9942,7 +10016,8 @@
       ],
       "sortOrder" : 384,
       "tags" : [
-        "wizard"
+        "wizard",
+        "female_mage"
       ]
     },
     {
@@ -9992,7 +10067,7 @@
       ],
       "sortOrder" : 386,
       "tags" : [
-
+        "male_fairy"
       ]
     },
     {
@@ -10014,7 +10089,7 @@
       ],
       "sortOrder" : 387,
       "tags" : [
-
+        "female_fairy"
       ]
     },
     {
@@ -10065,7 +10140,7 @@
       ],
       "sortOrder" : 389,
       "tags" : [
-
+        "male_vampire"
       ]
     },
     {
@@ -10087,7 +10162,7 @@
       ],
       "sortOrder" : 390,
       "tags" : [
-
+        "female_vampire"
       ]
     },
     {
@@ -10209,7 +10284,7 @@
       ],
       "sortOrder" : 395,
       "tags" : [
-
+        "male_elf"
       ]
     },
     {
@@ -10231,7 +10306,7 @@
       ],
       "sortOrder" : 396,
       "tags" : [
-
+        "female_elf"
       ]
     },
     {
@@ -10271,7 +10346,7 @@
       ],
       "sortOrder" : 398,
       "tags" : [
-
+        "male_genie"
       ]
     },
     {
@@ -10288,7 +10363,7 @@
       ],
       "sortOrder" : 399,
       "tags" : [
-
+        "female_genie"
       ]
     },
     {
@@ -10328,7 +10403,7 @@
       ],
       "sortOrder" : 401,
       "tags" : [
-
+        "male_zombie"
       ]
     },
     {
@@ -10345,7 +10420,7 @@
       ],
       "sortOrder" : 402,
       "tags" : [
-
+        "female_zombie"
       ]
     },
     {
@@ -10445,7 +10520,8 @@
       ],
       "sortOrder" : 406,
       "tags" : [
-        "spa"
+        "spa",
+        "man-getting-massage"
       ]
     },
     {
@@ -10467,7 +10543,8 @@
       ],
       "sortOrder" : 407,
       "tags" : [
-        "spa"
+        "spa",
+        "woman-getting-massage"
       ]
     },
     {
@@ -10521,7 +10598,7 @@
       ],
       "sortOrder" : 409,
       "tags" : [
-
+        "man-getting-haircut"
       ]
     },
     {
@@ -10543,7 +10620,7 @@
       ],
       "sortOrder" : 410,
       "tags" : [
-
+        "woman-getting-haircut"
       ]
     },
     {
@@ -10596,7 +10673,7 @@
       ],
       "sortOrder" : 412,
       "tags" : [
-
+        "man-walking"
       ]
     },
     {
@@ -10618,7 +10695,7 @@
       ],
       "sortOrder" : 413,
       "tags" : [
-
+        "woman-walking"
       ]
     },
     {
@@ -11375,7 +11452,8 @@
       "tags" : [
         "exercise",
         "workout",
-        "marathon"
+        "marathon",
+        "man-running"
       ]
     },
     {
@@ -11399,7 +11477,8 @@
       "tags" : [
         "exercise",
         "workout",
-        "marathon"
+        "marathon",
+        "woman-running"
       ]
     },
     {
@@ -11576,7 +11655,7 @@
       ],
       "sortOrder" : 453,
       "tags" : [
-
+        "man_in_business_suit_levitating"
       ]
     },
     {
@@ -11674,7 +11753,9 @@
       ],
       "sortOrder" : 455,
       "tags" : [
-        "bunny"
+        "bunny",
+        "men-with-bunny-ears-partying",
+        "man-with-bunny-ears-partying"
       ]
     },
     {
@@ -11716,7 +11797,9 @@
       ],
       "sortOrder" : 456,
       "tags" : [
-        "bunny"
+        "bunny",
+        "women-with-bunny-ears-partying",
+        "woman-with-bunny-ears-partying"
       ]
     },
     {
@@ -11977,7 +12060,7 @@
       ],
       "sortOrder" : 467,
       "tags" : [
-
+        "golfer"
       ]
     },
     {
@@ -11999,7 +12082,7 @@
       ],
       "sortOrder" : 468,
       "tags" : [
-
+        "man-golfing"
       ]
     },
     {
@@ -12021,7 +12104,7 @@
       ],
       "sortOrder" : 469,
       "tags" : [
-
+        "woman-golfing"
       ]
     },
     {
@@ -12072,7 +12155,7 @@
       ],
       "sortOrder" : 471,
       "tags" : [
-
+        "man-surfing"
       ]
     },
     {
@@ -12094,7 +12177,7 @@
       ],
       "sortOrder" : 472,
       "tags" : [
-
+        "woman-surfing"
       ]
     },
     {
@@ -12149,7 +12232,7 @@
       ],
       "sortOrder" : 474,
       "tags" : [
-
+        "man-rowing-boat"
       ]
     },
     {
@@ -12171,7 +12254,7 @@
       ],
       "sortOrder" : 475,
       "tags" : [
-
+        "woman-rowing-boat"
       ]
     },
     {
@@ -12220,7 +12303,7 @@
       ],
       "sortOrder" : 477,
       "tags" : [
-
+        "man-swimming"
       ]
     },
     {
@@ -12242,7 +12325,7 @@
       ],
       "sortOrder" : 478,
       "tags" : [
-
+        "woman-swimming"
       ]
     },
     {
@@ -12264,7 +12347,8 @@
       ],
       "sortOrder" : 479,
       "tags" : [
-        "basketball"
+        "basketball",
+        "person_with_ball"
       ]
     },
     {
@@ -12287,7 +12371,7 @@
       ],
       "sortOrder" : 480,
       "tags" : [
-
+        "man-bouncing-ball"
       ]
     },
     {
@@ -12310,7 +12394,7 @@
       ],
       "sortOrder" : 481,
       "tags" : [
-
+        "woman-bouncing-ball"
       ]
     },
     {
@@ -12333,7 +12417,8 @@
       "sortOrder" : 482,
       "tags" : [
         "gym",
-        "workout"
+        "workout",
+        "weight_lifter"
       ]
     },
     {
@@ -12356,7 +12441,8 @@
       "sortOrder" : 483,
       "tags" : [
         "gym",
-        "workout"
+        "workout",
+        "man-lifting-weights"
       ]
     },
     {
@@ -12379,7 +12465,8 @@
       "sortOrder" : 484,
       "tags" : [
         "gym",
-        "workout"
+        "workout",
+        "woman-lifting-weights"
       ]
     },
     {
@@ -12430,7 +12517,7 @@
       ],
       "sortOrder" : 486,
       "tags" : [
-
+        "man-biking"
       ]
     },
     {
@@ -12452,7 +12539,7 @@
       ],
       "sortOrder" : 487,
       "tags" : [
-
+        "woman-biking"
       ]
     },
     {
@@ -12505,7 +12592,7 @@
       ],
       "sortOrder" : 489,
       "tags" : [
-
+        "man-mountain-biking"
       ]
     },
     {
@@ -12527,7 +12614,7 @@
       ],
       "sortOrder" : 490,
       "tags" : [
-
+        "woman-mountain-biking"
       ]
     },
     {
@@ -12556,7 +12643,8 @@
         "gymnastics",
         "happy",
         "person",
-        "somersault"
+        "somersault",
+        "person_doing_cartwheel"
       ]
     },
     {
@@ -12578,7 +12666,7 @@
       ],
       "sortOrder" : 492,
       "tags" : [
-
+        "man-cartwheeling"
       ]
     },
     {
@@ -12600,7 +12688,7 @@
       ],
       "sortOrder" : 493,
       "tags" : [
-
+        "woman-cartwheeling"
       ]
     },
     {
@@ -12648,7 +12736,8 @@
         "people",
         "ring",
         "tournament",
-        "wrestle"
+        "wrestle",
+        "wrestlers"
       ]
     },
     {
@@ -12690,7 +12779,7 @@
       ],
       "sortOrder" : 495,
       "tags" : [
-
+        "man-wrestling"
       ]
     },
     {
@@ -12732,7 +12821,7 @@
       ],
       "sortOrder" : 496,
       "tags" : [
-
+        "woman-wrestling"
       ]
     },
     {
@@ -12782,7 +12871,7 @@
       ],
       "sortOrder" : 498,
       "tags" : [
-
+        "man-playing-water-polo"
       ]
     },
     {
@@ -12804,7 +12893,7 @@
       ],
       "sortOrder" : 499,
       "tags" : [
-
+        "woman-playing-water-polo"
       ]
     },
     {
@@ -12860,7 +12949,7 @@
       ],
       "sortOrder" : 501,
       "tags" : [
-
+        "man-playing-handball"
       ]
     },
     {
@@ -12882,7 +12971,7 @@
       ],
       "sortOrder" : 502,
       "tags" : [
-
+        "woman-playing-handball"
       ]
     },
     {
@@ -12935,7 +13024,7 @@
       ],
       "sortOrder" : 504,
       "tags" : [
-
+        "man-juggling"
       ]
     },
     {
@@ -12957,7 +13046,7 @@
       ],
       "sortOrder" : 505,
       "tags" : [
-
+        "woman-juggling"
       ]
     },
     {
@@ -13093,7 +13182,8 @@
         "person",
         "sleep",
         "tired",
-        "zzz"
+        "zzz",
+        "sleeping_accommodation"
       ]
     },
     {
@@ -13254,7 +13344,8 @@
         "man",
         "twins",
         "woman",
-        "date"
+        "date",
+        "man_and_woman_holding_hands"
       ]
     },
     {
@@ -13406,7 +13497,7 @@
       ],
       "sortOrder" : 516,
       "tags" : [
-
+        "woman-kiss-man"
       ]
     },
     {
@@ -13448,7 +13539,7 @@
       ],
       "sortOrder" : 517,
       "tags" : [
-
+        "man-kiss-man"
       ]
     },
     {
@@ -13490,7 +13581,7 @@
       ],
       "sortOrder" : 518,
       "tags" : [
-
+        "woman-kiss-woman"
       ]
     },
     {
@@ -13586,7 +13677,7 @@
       ],
       "sortOrder" : 520,
       "tags" : [
-
+        "woman-heart-man"
       ]
     },
     {
@@ -13628,7 +13719,7 @@
       ],
       "sortOrder" : 521,
       "tags" : [
-
+        "man-heart-man"
       ]
     },
     {
@@ -13670,7 +13761,7 @@
       ],
       "sortOrder" : 522,
       "tags" : [
-
+        "woman-heart-woman"
       ]
     },
     {
@@ -13691,7 +13782,8 @@
         "child",
         "family",
         "man",
-        "woman"
+        "woman",
+        "man-woman-boy"
       ]
     },
     {
@@ -13712,7 +13804,8 @@
         "family",
         "girl",
         "man",
-        "woman"
+        "woman",
+        "man-woman-girl"
       ]
     },
     {
@@ -13734,7 +13827,8 @@
         "family",
         "girl",
         "man",
-        "woman"
+        "woman",
+        "man-woman-girl-boy"
       ]
     },
     {
@@ -13755,7 +13849,8 @@
         "child",
         "family",
         "man",
-        "woman"
+        "woman",
+        "man-woman-boy-boy"
       ]
     },
     {
@@ -13776,7 +13871,8 @@
         "family",
         "girl",
         "man",
-        "woman"
+        "woman",
+        "man-woman-girl-girl"
       ]
     },
     {
@@ -13796,7 +13892,8 @@
         "boy",
         "child",
         "family",
-        "man"
+        "man",
+        "man-man-boy"
       ]
     },
     {
@@ -13816,7 +13913,8 @@
         "child",
         "family",
         "girl",
-        "man"
+        "man",
+        "man-man-girl"
       ]
     },
     {
@@ -13837,7 +13935,8 @@
         "child",
         "family",
         "girl",
-        "man"
+        "man",
+        "man-man-girl-boy"
       ]
     },
     {
@@ -13857,7 +13956,8 @@
         "boy",
         "child",
         "family",
-        "man"
+        "man",
+        "man-man-boy-boy"
       ]
     },
     {
@@ -13877,7 +13977,8 @@
         "child",
         "family",
         "girl",
-        "man"
+        "man",
+        "man-man-girl-girl"
       ]
     },
     {
@@ -13897,7 +13998,8 @@
         "boy",
         "child",
         "family",
-        "woman"
+        "woman",
+        "woman-woman-boy"
       ]
     },
     {
@@ -13917,7 +14019,8 @@
         "child",
         "family",
         "girl",
-        "woman"
+        "woman",
+        "woman-woman-girl"
       ]
     },
     {
@@ -13938,7 +14041,8 @@
         "child",
         "family",
         "girl",
-        "woman"
+        "woman",
+        "woman-woman-girl-boy"
       ]
     },
     {
@@ -13958,7 +14062,8 @@
         "boy",
         "child",
         "family",
-        "woman"
+        "woman",
+        "woman-woman-boy-boy"
       ]
     },
     {
@@ -13978,7 +14083,8 @@
         "child",
         "family",
         "girl",
-        "woman"
+        "woman",
+        "woman-woman-girl-girl"
       ]
     },
     {
@@ -13998,7 +14104,8 @@
         "boy",
         "child",
         "family",
-        "man"
+        "man",
+        "man-boy"
       ]
     },
     {
@@ -14018,7 +14125,8 @@
         "boy",
         "child",
         "family",
-        "man"
+        "man",
+        "man-boy-boy"
       ]
     },
     {
@@ -14038,7 +14146,8 @@
         "child",
         "family",
         "girl",
-        "man"
+        "man",
+        "man-girl"
       ]
     },
     {
@@ -14059,7 +14168,8 @@
         "child",
         "family",
         "girl",
-        "man"
+        "man",
+        "man-girl-boy"
       ]
     },
     {
@@ -14079,7 +14189,8 @@
         "child",
         "family",
         "girl",
-        "man"
+        "man",
+        "man-girl-girl"
       ]
     },
     {
@@ -14099,7 +14210,8 @@
         "boy",
         "child",
         "family",
-        "woman"
+        "woman",
+        "woman-boy"
       ]
     },
     {
@@ -14119,7 +14231,8 @@
         "boy",
         "child",
         "family",
-        "woman"
+        "woman",
+        "woman-boy-boy"
       ]
     },
     {
@@ -14139,7 +14252,8 @@
         "child",
         "family",
         "girl",
-        "woman"
+        "woman",
+        "woman-girl"
       ]
     },
     {
@@ -14160,7 +14274,8 @@
         "child",
         "family",
         "girl",
-        "woman"
+        "woman",
+        "woman-girl-boy"
       ]
     },
     {
@@ -14180,7 +14295,8 @@
         "child",
         "family",
         "girl",
-        "woman"
+        "woman",
+        "woman-girl-girl"
       ]
     },
     {
@@ -14197,7 +14313,7 @@
       ],
       "sortOrder" : 548,
       "tags" : [
-
+        "speaking_head_in_silhouette"
       ]
     },
     {
@@ -14742,7 +14858,8 @@
         "roar",
         "safari",
         "strong",
-        "zodiac"
+        "zodiac",
+        "lion_face"
       ]
     },
     {
@@ -14912,7 +15029,8 @@
       ],
       "sortOrder" : 582,
       "tags" : [
-        "face"
+        "face",
+        "unicorn_face"
       ]
     },
     {
@@ -14930,7 +15048,8 @@
       "sortOrder" : 583,
       "tags" : [
         "animal",
-        "stripe"
+        "stripe",
+        "zebra_face"
       ]
     },
     {
@@ -15286,7 +15405,8 @@
       "sortOrder" : 600,
       "tags" : [
         "animal",
-        "spots"
+        "spots",
+        "giraffe_face"
       ]
     },
     {
@@ -15916,7 +16036,8 @@
       ],
       "sortOrder" : 633,
       "tags" : [
-        "peace"
+        "peace",
+        "dove_of_peace"
       ]
     },
     {
@@ -18029,7 +18150,8 @@
       "tags" : [
         "food",
         "fruit",
-        "kiwi"
+        "kiwi",
+        "kiwifruit"
       ]
     },
     {
@@ -20270,7 +20392,8 @@
       ],
       "sortOrder" : 841,
       "tags" : [
-        "drink"
+        "drink",
+        "mate_drink"
       ]
     },
     {
@@ -20326,7 +20449,8 @@
       "sortOrder" : 844,
       "tags" : [
         "dining",
-        "dinner"
+        "dinner",
+        "knife_fork_plate"
       ]
     },
     {
@@ -20611,7 +20735,7 @@
       ],
       "sortOrder" : 857,
       "tags" : [
-
+        "snow_capped_mountain"
       ]
     },
     {
@@ -20923,7 +21047,7 @@
       ],
       "sortOrder" : 874,
       "tags" : [
-
+        "house_buildings"
       ]
     },
     {
@@ -20940,7 +21064,7 @@
       ],
       "sortOrder" : 875,
       "tags" : [
-
+        "derelict_house_building"
       ]
     },
     {
@@ -22372,7 +22496,7 @@
       ],
       "sortOrder" : 947,
       "tags" : [
-
+        "racing_motorcycle"
       ]
     },
     {
@@ -22735,7 +22859,8 @@
       "tags" : [
         "octagonal",
         "sign",
-        "stop"
+        "stop",
+        "octagonal_sign"
       ]
     },
     {
@@ -23009,7 +23134,8 @@
         "arrivals",
         "arriving",
         "landing",
-        "plane"
+        "plane",
+        "airplane_arriving"
       ]
     },
     {
@@ -23145,7 +23271,8 @@
       "sortOrder" : 986,
       "tags" : [
         "orbit",
-        "space"
+        "space",
+        "satellite"
       ]
     },
     {
@@ -24385,7 +24512,7 @@
       ],
       "sortOrder" : 1045,
       "tags" : [
-
+        "thunder_cloud_and_rain"
       ]
     },
     {
@@ -24402,7 +24529,8 @@
       ],
       "sortOrder" : 1046,
       "tags" : [
-
+        "mostly_sunny",
+        "sun_small_cloud"
       ]
     },
     {
@@ -24419,7 +24547,8 @@
       ],
       "sortOrder" : 1047,
       "tags" : [
-
+        "barely_sunny",
+        "sun_behind_cloud"
       ]
     },
     {
@@ -24436,7 +24565,7 @@
       ],
       "sortOrder" : 1048,
       "tags" : [
-
+        "partly_sunny_rain"
       ]
     },
     {
@@ -24453,7 +24582,7 @@
       ],
       "sortOrder" : 1049,
       "tags" : [
-
+        "rain_cloud"
       ]
     },
     {
@@ -24470,7 +24599,7 @@
       ],
       "sortOrder" : 1050,
       "tags" : [
-
+        "snow_cloud"
       ]
     },
     {
@@ -24487,7 +24616,8 @@
       ],
       "sortOrder" : 1051,
       "tags" : [
-
+        "lightning",
+        "lightning_cloud"
       ]
     },
     {
@@ -24504,7 +24634,7 @@
       ],
       "sortOrder" : 1052,
       "tags" : [
-
+        "tornado_cloud"
       ]
     },
     {
@@ -24538,7 +24668,7 @@
       ],
       "sortOrder" : 1054,
       "tags" : [
-
+        "wind_blowing_face"
       ]
     },
     {
@@ -24629,7 +24759,7 @@
       ],
       "sortOrder" : 1058,
       "tags" : [
-
+        "umbrella"
       ]
     },
     {
@@ -24729,7 +24859,8 @@
       "sortOrder" : 1063,
       "tags" : [
         "winter",
-        "christmas"
+        "christmas",
+        "snowman"
       ]
     },
     {
@@ -25285,7 +25416,7 @@
       ],
       "sortOrder" : 1090,
       "tags" : [
-
+        "medal"
       ]
     },
     {
@@ -25354,7 +25485,8 @@
         "first",
         "gold",
         "medal",
-        "place"
+        "place",
+        "first_place_medal"
       ]
     },
     {
@@ -25375,7 +25507,8 @@
         "medal",
         "place",
         "second",
-        "silver"
+        "silver",
+        "second_place_medal"
       ]
     },
     {
@@ -25396,7 +25529,8 @@
         "bronze",
         "medal",
         "place",
-        "third"
+        "third",
+        "third_place_medal"
       ]
     },
     {
@@ -25615,7 +25749,8 @@
         "ball",
         "bat",
         "cricket",
-        "game"
+        "game",
+        "cricket_bat_and_ball"
       ]
     },
     {
@@ -25636,7 +25771,8 @@
         "field",
         "game",
         "hockey",
-        "stick"
+        "stick",
+        "field_hockey_stick_and_ball"
       ]
     },
     {
@@ -25657,7 +25793,8 @@
         "hockey",
         "ice",
         "puck",
-        "stick"
+        "stick",
+        "ice_hockey_stick_and_puck"
       ]
     },
     {
@@ -25702,7 +25839,8 @@
         "pingpong",
         "pong",
         "table",
-        "tennis"
+        "tennis",
+        "table_tennis_paddle_and_ball"
       ]
     },
     {
@@ -25722,7 +25860,8 @@
         "birdie",
         "game",
         "racquet",
-        "shuttlecock"
+        "shuttlecock",
+        "badminton_racquet_and_shuttlecock"
       ]
     },
     {
@@ -26473,7 +26612,7 @@
       ],
       "sortOrder" : 1148,
       "tags" : [
-
+        "frame_with_picture"
       ]
     },
     {
@@ -27267,7 +27406,8 @@
         "flats",
         "shoe",
         "slip-on",
-        "slipper"
+        "slipper",
+        "womans_flat_shoe"
       ]
     },
     {
@@ -27537,7 +27677,7 @@
       ],
       "sortOrder" : 1196,
       "tags" : [
-
+        "helmet_with_white_cross"
       ]
     },
     {
@@ -28163,7 +28303,8 @@
       "sortOrder" : 1227,
       "tags" : [
         "drumsticks",
-        "music"
+        "music",
+        "drum_with_drumsticks"
       ]
     },
     {
@@ -28527,7 +28668,7 @@
       ],
       "sortOrder" : 1245,
       "tags" : [
-
+        "three_button_mouse"
       ]
     },
     {
@@ -29260,7 +29401,8 @@
       ],
       "sortOrder" : 1281,
       "tags" : [
-        "press"
+        "press",
+        "rolled_up_newspaper"
       ]
     },
     {
@@ -29918,7 +30060,7 @@
       ],
       "sortOrder" : 1311,
       "tags" : [
-
+        "lower_left_fountain_pen"
       ]
     },
     {
@@ -29935,7 +30077,7 @@
       ],
       "sortOrder" : 1312,
       "tags" : [
-
+        "lower_left_ballpoint_pen"
       ]
     },
     {
@@ -29952,7 +30094,7 @@
       ],
       "sortOrder" : 1313,
       "tags" : [
-
+        "lower_left_paintbrush"
       ]
     },
     {
@@ -29969,7 +30111,7 @@
       ],
       "sortOrder" : 1314,
       "tags" : [
-
+        "lower_left_crayon"
       ]
     },
     {
@@ -30116,7 +30258,7 @@
       ],
       "sortOrder" : 1322,
       "tags" : [
-
+        "spiral_note_pad"
       ]
     },
     {
@@ -30133,7 +30275,7 @@
       ],
       "sortOrder" : 1323,
       "tags" : [
-
+        "spiral_calendar_pad"
       ]
     },
     {
@@ -30665,7 +30807,7 @@
       ],
       "sortOrder" : 1350,
       "tags" : [
-
+        "dagger_knife"
       ]
     },
     {
@@ -30881,7 +31023,7 @@
       ],
       "sortOrder" : 1361,
       "tags" : [
-
+        "compression"
       ]
     },
     {
@@ -30898,7 +31040,7 @@
       ],
       "sortOrder" : 1362,
       "tags" : [
-
+        "scales"
       ]
     },
     {
@@ -31877,7 +32019,8 @@
       "tags" : [
         "cart",
         "shopping",
-        "trolley"
+        "trolley",
+        "shopping_trolley"
       ]
     },
     {
@@ -32604,7 +32747,7 @@
       ],
       "sortOrder" : 1444,
       "tags" : [
-
+        "radioactive_sign"
       ]
     },
     {
@@ -32621,7 +32764,7 @@
       ],
       "sortOrder" : 1445,
       "tags" : [
-
+        "biohazard_sign"
       ]
     },
     {
@@ -33052,7 +33195,7 @@
       ],
       "sortOrder" : 1469,
       "tags" : [
-
+        "om_symbol"
       ]
     },
     {
@@ -33193,7 +33336,8 @@
         "hanukkah",
         "jewish",
         "judaism",
-        "religion"
+        "religion",
+        "menorah_with_nine_branches"
       ]
     },
     {
@@ -33608,7 +33752,7 @@
       ],
       "sortOrder" : 1498,
       "tags" : [
-
+        "black_right_pointing_double_triangle_with_vertical_bar"
       ]
     },
     {
@@ -33625,7 +33769,7 @@
       ],
       "sortOrder" : 1499,
       "tags" : [
-
+        "black_right_pointing_triangle_with_double_vertical_bar"
       ]
     },
     {
@@ -33680,7 +33824,7 @@
       ],
       "sortOrder" : 1502,
       "tags" : [
-
+        "black_left_pointing_double_triangle_with_vertical_bar"
       ]
     },
     {
@@ -33781,7 +33925,7 @@
       ],
       "sortOrder" : 1507,
       "tags" : [
-
+        "double_vertical_bar"
       ]
     },
     {
@@ -33798,7 +33942,7 @@
       ],
       "sortOrder" : 1508,
       "tags" : [
-
+        "black_square_for_stop"
       ]
     },
     {
@@ -33815,7 +33959,7 @@
       ],
       "sortOrder" : 1509,
       "tags" : [
-
+        "black_circle_for_record"
       ]
     },
     {
@@ -33832,7 +33976,7 @@
       ],
       "sortOrder" : 1510,
       "tags" : [
-
+        "eject"
       ]
     },
     {
@@ -34351,7 +34495,7 @@
       ],
       "sortOrder" : 1536,
       "tags" : [
-
+        "staff_of_aesculapius"
       ]
     },
     {
@@ -34788,7 +34932,7 @@
       ],
       "sortOrder" : 1559,
       "tags" : [
-
+        "keycap_star"
       ]
     },
     {
@@ -35741,7 +35885,8 @@
       "sortOrder" : 1611,
       "tags" : [
         "circle",
-        "orange"
+        "orange",
+        "large_orange_circle"
       ]
     },
     {
@@ -35759,7 +35904,8 @@
       "sortOrder" : 1612,
       "tags" : [
         "circle",
-        "yellow"
+        "yellow",
+        "large_yellow_circle"
       ]
     },
     {
@@ -35777,7 +35923,8 @@
       "sortOrder" : 1613,
       "tags" : [
         "circle",
-        "green"
+        "green",
+        "large_green_circle"
       ]
     },
     {
@@ -35814,7 +35961,8 @@
       "sortOrder" : 1615,
       "tags" : [
         "circle",
-        "purple"
+        "purple",
+        "large_purple_circle"
       ]
     },
     {
@@ -35832,7 +35980,8 @@
       "sortOrder" : 1616,
       "tags" : [
         "brown",
-        "circle"
+        "circle",
+        "large_brown_circle"
       ]
     },
     {
@@ -35890,7 +36039,8 @@
         "card",
         "penalty",
         "red",
-        "square"
+        "square",
+        "large_red_square"
       ]
     },
     {
@@ -35908,7 +36058,8 @@
       "sortOrder" : 1620,
       "tags" : [
         "orange",
-        "square"
+        "square",
+        "large_orange_square"
       ]
     },
     {
@@ -35928,7 +36079,8 @@
         "card",
         "penalty",
         "square",
-        "yellow"
+        "yellow",
+        "large_yellow_square"
       ]
     },
     {
@@ -35946,7 +36098,8 @@
       "sortOrder" : 1622,
       "tags" : [
         "green",
-        "square"
+        "square",
+        "large_green_square"
       ]
     },
     {
@@ -35964,7 +36117,8 @@
       "sortOrder" : 1623,
       "tags" : [
         "blue",
-        "square"
+        "square",
+        "large_blue_square"
       ]
     },
     {
@@ -35982,7 +36136,8 @@
       "sortOrder" : 1624,
       "tags" : [
         "purple",
-        "square"
+        "square",
+        "large_purple_square"
       ]
     },
     {
@@ -36000,7 +36155,8 @@
       "sortOrder" : 1625,
       "tags" : [
         "brown",
-        "square"
+        "square",
+        "large_brown_square"
       ]
     },
     {
@@ -36438,7 +36594,8 @@
       "tags" : [
         "black",
         "flag",
-        "waving"
+        "waving",
+        "waving_black_flag"
       ]
     },
     {
@@ -36455,7 +36612,7 @@
       ],
       "sortOrder" : 1648,
       "tags" : [
-
+        "waving_white_flag"
       ]
     },
     {
@@ -36472,7 +36629,8 @@
       ],
       "sortOrder" : 1649,
       "tags" : [
-        "pride"
+        "pride",
+        "rainbow-flag"
       ]
     },
     {
@@ -36523,7 +36681,8 @@
       ],
       "sortOrder" : 1652,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ac"
       ]
     },
     {
@@ -36540,7 +36699,8 @@
       ],
       "sortOrder" : 1653,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ad"
       ]
     },
     {
@@ -36557,7 +36717,8 @@
       ],
       "sortOrder" : 1654,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ae"
       ]
     },
     {
@@ -36574,7 +36735,8 @@
       ],
       "sortOrder" : 1655,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-af"
       ]
     },
     {
@@ -36591,7 +36753,8 @@
       ],
       "sortOrder" : 1656,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ag"
       ]
     },
     {
@@ -36608,7 +36771,8 @@
       ],
       "sortOrder" : 1657,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ai"
       ]
     },
     {
@@ -36625,7 +36789,8 @@
       ],
       "sortOrder" : 1658,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-al"
       ]
     },
     {
@@ -36642,7 +36807,8 @@
       ],
       "sortOrder" : 1659,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-am"
       ]
     },
     {
@@ -36659,7 +36825,8 @@
       ],
       "sortOrder" : 1660,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ao"
       ]
     },
     {
@@ -36676,7 +36843,8 @@
       ],
       "sortOrder" : 1661,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-aq"
       ]
     },
     {
@@ -36693,7 +36861,8 @@
       ],
       "sortOrder" : 1662,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ar"
       ]
     },
     {
@@ -36710,7 +36879,8 @@
       ],
       "sortOrder" : 1663,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-as"
       ]
     },
     {
@@ -36727,7 +36897,8 @@
       ],
       "sortOrder" : 1664,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-at"
       ]
     },
     {
@@ -36744,7 +36915,8 @@
       ],
       "sortOrder" : 1665,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-au"
       ]
     },
     {
@@ -36761,7 +36933,8 @@
       ],
       "sortOrder" : 1666,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-aw"
       ]
     },
     {
@@ -36778,7 +36951,8 @@
       ],
       "sortOrder" : 1667,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ax"
       ]
     },
     {
@@ -36795,7 +36969,8 @@
       ],
       "sortOrder" : 1668,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-az"
       ]
     },
     {
@@ -36812,7 +36987,8 @@
       ],
       "sortOrder" : 1669,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ba"
       ]
     },
     {
@@ -36829,7 +37005,8 @@
       ],
       "sortOrder" : 1670,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bb"
       ]
     },
     {
@@ -36846,7 +37023,8 @@
       ],
       "sortOrder" : 1671,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bd"
       ]
     },
     {
@@ -36863,7 +37041,8 @@
       ],
       "sortOrder" : 1672,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-be"
       ]
     },
     {
@@ -36880,7 +37059,8 @@
       ],
       "sortOrder" : 1673,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bf"
       ]
     },
     {
@@ -36897,7 +37077,8 @@
       ],
       "sortOrder" : 1674,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bg"
       ]
     },
     {
@@ -36914,7 +37095,8 @@
       ],
       "sortOrder" : 1675,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bh"
       ]
     },
     {
@@ -36931,7 +37113,8 @@
       ],
       "sortOrder" : 1676,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bi"
       ]
     },
     {
@@ -36948,7 +37131,8 @@
       ],
       "sortOrder" : 1677,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bj"
       ]
     },
     {
@@ -36965,7 +37149,8 @@
       ],
       "sortOrder" : 1678,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bl"
       ]
     },
     {
@@ -36982,7 +37167,8 @@
       ],
       "sortOrder" : 1679,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bm"
       ]
     },
     {
@@ -36999,7 +37185,8 @@
       ],
       "sortOrder" : 1680,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bn"
       ]
     },
     {
@@ -37016,7 +37203,8 @@
       ],
       "sortOrder" : 1681,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bo"
       ]
     },
     {
@@ -37033,7 +37221,8 @@
       ],
       "sortOrder" : 1682,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bq"
       ]
     },
     {
@@ -37050,7 +37239,8 @@
       ],
       "sortOrder" : 1683,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-br"
       ]
     },
     {
@@ -37067,7 +37257,8 @@
       ],
       "sortOrder" : 1684,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bs"
       ]
     },
     {
@@ -37084,7 +37275,8 @@
       ],
       "sortOrder" : 1685,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bt"
       ]
     },
     {
@@ -37101,7 +37293,8 @@
       ],
       "sortOrder" : 1686,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bv"
       ]
     },
     {
@@ -37118,7 +37311,8 @@
       ],
       "sortOrder" : 1687,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bw"
       ]
     },
     {
@@ -37135,7 +37329,8 @@
       ],
       "sortOrder" : 1688,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-by"
       ]
     },
     {
@@ -37152,7 +37347,8 @@
       ],
       "sortOrder" : 1689,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-bz"
       ]
     },
     {
@@ -37169,7 +37365,8 @@
       ],
       "sortOrder" : 1690,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ca"
       ]
     },
     {
@@ -37187,7 +37384,8 @@
       "sortOrder" : 1691,
       "tags" : [
         "flag",
-        "keeling"
+        "keeling",
+        "flag-cc"
       ]
     },
     {
@@ -37204,7 +37402,8 @@
       ],
       "sortOrder" : 1692,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cd"
       ]
     },
     {
@@ -37221,7 +37420,8 @@
       ],
       "sortOrder" : 1693,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cf"
       ]
     },
     {
@@ -37238,7 +37438,8 @@
       ],
       "sortOrder" : 1694,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cg"
       ]
     },
     {
@@ -37255,7 +37456,8 @@
       ],
       "sortOrder" : 1695,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ch"
       ]
     },
     {
@@ -37273,7 +37475,8 @@
       "sortOrder" : 1696,
       "tags" : [
         "flag",
-        "ivory"
+        "ivory",
+        "flag-ci"
       ]
     },
     {
@@ -37290,7 +37493,8 @@
       ],
       "sortOrder" : 1697,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ck"
       ]
     },
     {
@@ -37307,7 +37511,8 @@
       ],
       "sortOrder" : 1698,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cl"
       ]
     },
     {
@@ -37324,7 +37529,8 @@
       ],
       "sortOrder" : 1699,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cm"
       ]
     },
     {
@@ -37342,7 +37548,8 @@
       "sortOrder" : 1700,
       "tags" : [
         "flag",
-        "china"
+        "china",
+        "flag-cn"
       ]
     },
     {
@@ -37359,7 +37566,8 @@
       ],
       "sortOrder" : 1701,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-co"
       ]
     },
     {
@@ -37376,7 +37584,8 @@
       ],
       "sortOrder" : 1702,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cp"
       ]
     },
     {
@@ -37393,7 +37602,8 @@
       ],
       "sortOrder" : 1703,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sark"
       ]
     },
     {
@@ -37410,7 +37620,8 @@
       ],
       "sortOrder" : 1704,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cr"
       ]
     },
     {
@@ -37427,7 +37638,8 @@
       ],
       "sortOrder" : 1705,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cu"
       ]
     },
     {
@@ -37444,7 +37656,8 @@
       ],
       "sortOrder" : 1706,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cv"
       ]
     },
     {
@@ -37461,7 +37674,8 @@
       ],
       "sortOrder" : 1707,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cw"
       ]
     },
     {
@@ -37478,7 +37692,8 @@
       ],
       "sortOrder" : 1708,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cx"
       ]
     },
     {
@@ -37495,7 +37710,8 @@
       ],
       "sortOrder" : 1709,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cy"
       ]
     },
     {
@@ -37512,7 +37728,8 @@
       ],
       "sortOrder" : 1710,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-cz"
       ]
     },
     {
@@ -37530,7 +37747,8 @@
       "sortOrder" : 1711,
       "tags" : [
         "flag",
-        "germany"
+        "germany",
+        "flag-de"
       ]
     },
     {
@@ -37547,7 +37765,8 @@
       ],
       "sortOrder" : 1712,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-dg"
       ]
     },
     {
@@ -37564,7 +37783,8 @@
       ],
       "sortOrder" : 1713,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-dj"
       ]
     },
     {
@@ -37581,7 +37801,8 @@
       ],
       "sortOrder" : 1714,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-dk"
       ]
     },
     {
@@ -37598,7 +37819,8 @@
       ],
       "sortOrder" : 1715,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-dm"
       ]
     },
     {
@@ -37615,7 +37837,8 @@
       ],
       "sortOrder" : 1716,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-do"
       ]
     },
     {
@@ -37632,7 +37855,8 @@
       ],
       "sortOrder" : 1717,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-dz"
       ]
     },
     {
@@ -37649,7 +37873,8 @@
       ],
       "sortOrder" : 1718,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ea"
       ]
     },
     {
@@ -37666,7 +37891,8 @@
       ],
       "sortOrder" : 1719,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ec"
       ]
     },
     {
@@ -37683,7 +37909,8 @@
       ],
       "sortOrder" : 1720,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ee"
       ]
     },
     {
@@ -37700,7 +37927,8 @@
       ],
       "sortOrder" : 1721,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-eg"
       ]
     },
     {
@@ -37717,7 +37945,8 @@
       ],
       "sortOrder" : 1722,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-eh"
       ]
     },
     {
@@ -37734,7 +37963,8 @@
       ],
       "sortOrder" : 1723,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-er"
       ]
     },
     {
@@ -37752,7 +37982,8 @@
       "sortOrder" : 1724,
       "tags" : [
         "flag",
-        "spain"
+        "spain",
+        "flag-es"
       ]
     },
     {
@@ -37769,7 +38000,8 @@
       ],
       "sortOrder" : 1725,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-et"
       ]
     },
     {
@@ -37787,7 +38019,8 @@
       ],
       "sortOrder" : 1726,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-eu"
       ]
     },
     {
@@ -37804,7 +38037,8 @@
       ],
       "sortOrder" : 1727,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-fi"
       ]
     },
     {
@@ -37821,7 +38055,8 @@
       ],
       "sortOrder" : 1728,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-fj"
       ]
     },
     {
@@ -37838,7 +38073,8 @@
       ],
       "sortOrder" : 1729,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-fk"
       ]
     },
     {
@@ -37855,7 +38091,8 @@
       ],
       "sortOrder" : 1730,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-fm"
       ]
     },
     {
@@ -37872,7 +38109,8 @@
       ],
       "sortOrder" : 1731,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-fo"
       ]
     },
     {
@@ -37891,7 +38129,8 @@
       "tags" : [
         "flag",
         "france",
-        "french"
+        "french",
+        "flag-fr"
       ]
     },
     {
@@ -37908,7 +38147,8 @@
       ],
       "sortOrder" : 1733,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ga"
       ]
     },
     {
@@ -37927,7 +38167,8 @@
       "sortOrder" : 1734,
       "tags" : [
         "flag",
-        "british"
+        "british",
+        "flag-gb"
       ]
     },
     {
@@ -37944,7 +38185,8 @@
       ],
       "sortOrder" : 1735,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gd"
       ]
     },
     {
@@ -37961,7 +38203,8 @@
       ],
       "sortOrder" : 1736,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ge"
       ]
     },
     {
@@ -37978,7 +38221,8 @@
       ],
       "sortOrder" : 1737,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gf"
       ]
     },
     {
@@ -37995,7 +38239,8 @@
       ],
       "sortOrder" : 1738,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gg"
       ]
     },
     {
@@ -38012,7 +38257,8 @@
       ],
       "sortOrder" : 1739,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gh"
       ]
     },
     {
@@ -38029,7 +38275,8 @@
       ],
       "sortOrder" : 1740,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gi"
       ]
     },
     {
@@ -38046,7 +38293,8 @@
       ],
       "sortOrder" : 1741,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gl"
       ]
     },
     {
@@ -38063,7 +38311,8 @@
       ],
       "sortOrder" : 1742,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gm"
       ]
     },
     {
@@ -38080,7 +38329,8 @@
       ],
       "sortOrder" : 1743,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gn"
       ]
     },
     {
@@ -38097,7 +38347,8 @@
       ],
       "sortOrder" : 1744,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gp"
       ]
     },
     {
@@ -38114,7 +38365,8 @@
       ],
       "sortOrder" : 1745,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gq"
       ]
     },
     {
@@ -38131,7 +38383,8 @@
       ],
       "sortOrder" : 1746,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gr"
       ]
     },
     {
@@ -38148,7 +38401,8 @@
       ],
       "sortOrder" : 1747,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gs"
       ]
     },
     {
@@ -38165,7 +38419,8 @@
       ],
       "sortOrder" : 1748,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gt"
       ]
     },
     {
@@ -38182,7 +38437,8 @@
       ],
       "sortOrder" : 1749,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gu"
       ]
     },
     {
@@ -38199,7 +38455,8 @@
       ],
       "sortOrder" : 1750,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gw"
       ]
     },
     {
@@ -38216,7 +38473,8 @@
       ],
       "sortOrder" : 1751,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-gy"
       ]
     },
     {
@@ -38233,7 +38491,8 @@
       ],
       "sortOrder" : 1752,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-hk"
       ]
     },
     {
@@ -38250,7 +38509,8 @@
       ],
       "sortOrder" : 1753,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-hm"
       ]
     },
     {
@@ -38267,7 +38527,8 @@
       ],
       "sortOrder" : 1754,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-hn"
       ]
     },
     {
@@ -38284,7 +38545,8 @@
       ],
       "sortOrder" : 1755,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-hr"
       ]
     },
     {
@@ -38301,7 +38563,8 @@
       ],
       "sortOrder" : 1756,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ht"
       ]
     },
     {
@@ -38318,7 +38581,8 @@
       ],
       "sortOrder" : 1757,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-hu"
       ]
     },
     {
@@ -38335,7 +38599,8 @@
       ],
       "sortOrder" : 1758,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ic"
       ]
     },
     {
@@ -38352,7 +38617,8 @@
       ],
       "sortOrder" : 1759,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-id"
       ]
     },
     {
@@ -38369,7 +38635,8 @@
       ],
       "sortOrder" : 1760,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ie"
       ]
     },
     {
@@ -38386,7 +38653,8 @@
       ],
       "sortOrder" : 1761,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-il"
       ]
     },
     {
@@ -38403,7 +38671,8 @@
       ],
       "sortOrder" : 1762,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-im"
       ]
     },
     {
@@ -38420,7 +38689,8 @@
       ],
       "sortOrder" : 1763,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-in"
       ]
     },
     {
@@ -38437,7 +38707,8 @@
       ],
       "sortOrder" : 1764,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-io"
       ]
     },
     {
@@ -38454,7 +38725,8 @@
       ],
       "sortOrder" : 1765,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-iq"
       ]
     },
     {
@@ -38471,7 +38743,8 @@
       ],
       "sortOrder" : 1766,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ir"
       ]
     },
     {
@@ -38488,7 +38761,8 @@
       ],
       "sortOrder" : 1767,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-is"
       ]
     },
     {
@@ -38506,7 +38780,8 @@
       "sortOrder" : 1768,
       "tags" : [
         "flag",
-        "italy"
+        "italy",
+        "flag-it"
       ]
     },
     {
@@ -38523,7 +38798,8 @@
       ],
       "sortOrder" : 1769,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-je"
       ]
     },
     {
@@ -38540,7 +38816,8 @@
       ],
       "sortOrder" : 1770,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-jm"
       ]
     },
     {
@@ -38557,7 +38834,8 @@
       ],
       "sortOrder" : 1771,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-jo"
       ]
     },
     {
@@ -38575,7 +38853,8 @@
       "sortOrder" : 1772,
       "tags" : [
         "flag",
-        "japan"
+        "japan",
+        "flag-jp"
       ]
     },
     {
@@ -38592,7 +38871,8 @@
       ],
       "sortOrder" : 1773,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ke"
       ]
     },
     {
@@ -38609,7 +38889,8 @@
       ],
       "sortOrder" : 1774,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-kg"
       ]
     },
     {
@@ -38626,7 +38907,8 @@
       ],
       "sortOrder" : 1775,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-kh"
       ]
     },
     {
@@ -38643,7 +38925,8 @@
       ],
       "sortOrder" : 1776,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ki"
       ]
     },
     {
@@ -38660,7 +38943,8 @@
       ],
       "sortOrder" : 1777,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-km"
       ]
     },
     {
@@ -38677,7 +38961,8 @@
       ],
       "sortOrder" : 1778,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-kn"
       ]
     },
     {
@@ -38694,7 +38979,8 @@
       ],
       "sortOrder" : 1779,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-kp"
       ]
     },
     {
@@ -38712,7 +38998,8 @@
       "sortOrder" : 1780,
       "tags" : [
         "flag",
-        "korea"
+        "korea",
+        "flag-kr"
       ]
     },
     {
@@ -38729,7 +39016,8 @@
       ],
       "sortOrder" : 1781,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-kw"
       ]
     },
     {
@@ -38746,7 +39034,8 @@
       ],
       "sortOrder" : 1782,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ky"
       ]
     },
     {
@@ -38763,7 +39052,8 @@
       ],
       "sortOrder" : 1783,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-kz"
       ]
     },
     {
@@ -38780,7 +39070,8 @@
       ],
       "sortOrder" : 1784,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-la"
       ]
     },
     {
@@ -38797,7 +39088,8 @@
       ],
       "sortOrder" : 1785,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-lb"
       ]
     },
     {
@@ -38814,7 +39106,8 @@
       ],
       "sortOrder" : 1786,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-lc"
       ]
     },
     {
@@ -38831,7 +39124,8 @@
       ],
       "sortOrder" : 1787,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-li"
       ]
     },
     {
@@ -38848,7 +39142,8 @@
       ],
       "sortOrder" : 1788,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-lk"
       ]
     },
     {
@@ -38865,7 +39160,8 @@
       ],
       "sortOrder" : 1789,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-lr"
       ]
     },
     {
@@ -38882,7 +39178,8 @@
       ],
       "sortOrder" : 1790,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ls"
       ]
     },
     {
@@ -38899,7 +39196,8 @@
       ],
       "sortOrder" : 1791,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-lt"
       ]
     },
     {
@@ -38916,7 +39214,8 @@
       ],
       "sortOrder" : 1792,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-lu"
       ]
     },
     {
@@ -38933,7 +39232,8 @@
       ],
       "sortOrder" : 1793,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-lv"
       ]
     },
     {
@@ -38950,7 +39250,8 @@
       ],
       "sortOrder" : 1794,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ly"
       ]
     },
     {
@@ -38967,7 +39268,8 @@
       ],
       "sortOrder" : 1795,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ma"
       ]
     },
     {
@@ -38984,7 +39286,8 @@
       ],
       "sortOrder" : 1796,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mc"
       ]
     },
     {
@@ -39001,7 +39304,8 @@
       ],
       "sortOrder" : 1797,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-md"
       ]
     },
     {
@@ -39018,7 +39322,8 @@
       ],
       "sortOrder" : 1798,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-me"
       ]
     },
     {
@@ -39035,7 +39340,8 @@
       ],
       "sortOrder" : 1799,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mf"
       ]
     },
     {
@@ -39052,7 +39358,8 @@
       ],
       "sortOrder" : 1800,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mg"
       ]
     },
     {
@@ -39069,7 +39376,8 @@
       ],
       "sortOrder" : 1801,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mh"
       ]
     },
     {
@@ -39086,7 +39394,8 @@
       ],
       "sortOrder" : 1802,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mk"
       ]
     },
     {
@@ -39103,7 +39412,8 @@
       ],
       "sortOrder" : 1803,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ml"
       ]
     },
     {
@@ -39121,7 +39431,8 @@
       "sortOrder" : 1804,
       "tags" : [
         "flag",
-        "burma"
+        "burma",
+        "flag-mm"
       ]
     },
     {
@@ -39138,7 +39449,8 @@
       ],
       "sortOrder" : 1805,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mn"
       ]
     },
     {
@@ -39155,7 +39467,8 @@
       ],
       "sortOrder" : 1806,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mo"
       ]
     },
     {
@@ -39172,7 +39485,8 @@
       ],
       "sortOrder" : 1807,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mp"
       ]
     },
     {
@@ -39189,7 +39503,8 @@
       ],
       "sortOrder" : 1808,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mq"
       ]
     },
     {
@@ -39206,7 +39521,8 @@
       ],
       "sortOrder" : 1809,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mr"
       ]
     },
     {
@@ -39223,7 +39539,8 @@
       ],
       "sortOrder" : 1810,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ms"
       ]
     },
     {
@@ -39240,7 +39557,8 @@
       ],
       "sortOrder" : 1811,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mt"
       ]
     },
     {
@@ -39257,7 +39575,8 @@
       ],
       "sortOrder" : 1812,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mu"
       ]
     },
     {
@@ -39274,7 +39593,8 @@
       ],
       "sortOrder" : 1813,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mv"
       ]
     },
     {
@@ -39291,7 +39611,8 @@
       ],
       "sortOrder" : 1814,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mw"
       ]
     },
     {
@@ -39308,7 +39629,8 @@
       ],
       "sortOrder" : 1815,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mx"
       ]
     },
     {
@@ -39325,7 +39647,8 @@
       ],
       "sortOrder" : 1816,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-my"
       ]
     },
     {
@@ -39342,7 +39665,8 @@
       ],
       "sortOrder" : 1817,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-mz"
       ]
     },
     {
@@ -39359,7 +39683,8 @@
       ],
       "sortOrder" : 1818,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-na"
       ]
     },
     {
@@ -39376,7 +39701,8 @@
       ],
       "sortOrder" : 1819,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-nc"
       ]
     },
     {
@@ -39393,7 +39719,8 @@
       ],
       "sortOrder" : 1820,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ne"
       ]
     },
     {
@@ -39410,7 +39737,8 @@
       ],
       "sortOrder" : 1821,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-nf"
       ]
     },
     {
@@ -39427,7 +39755,8 @@
       ],
       "sortOrder" : 1822,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ng"
       ]
     },
     {
@@ -39444,7 +39773,8 @@
       ],
       "sortOrder" : 1823,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ni"
       ]
     },
     {
@@ -39461,7 +39791,8 @@
       ],
       "sortOrder" : 1824,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-nl"
       ]
     },
     {
@@ -39478,7 +39809,8 @@
       ],
       "sortOrder" : 1825,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-no"
       ]
     },
     {
@@ -39495,7 +39827,8 @@
       ],
       "sortOrder" : 1826,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-np"
       ]
     },
     {
@@ -39512,7 +39845,8 @@
       ],
       "sortOrder" : 1827,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-nr"
       ]
     },
     {
@@ -39529,7 +39863,8 @@
       ],
       "sortOrder" : 1828,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-nu"
       ]
     },
     {
@@ -39546,7 +39881,8 @@
       ],
       "sortOrder" : 1829,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-nz"
       ]
     },
     {
@@ -39563,7 +39899,8 @@
       ],
       "sortOrder" : 1830,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-om"
       ]
     },
     {
@@ -39580,7 +39917,8 @@
       ],
       "sortOrder" : 1831,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pa"
       ]
     },
     {
@@ -39597,7 +39935,8 @@
       ],
       "sortOrder" : 1832,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pe"
       ]
     },
     {
@@ -39614,7 +39953,8 @@
       ],
       "sortOrder" : 1833,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pf"
       ]
     },
     {
@@ -39631,7 +39971,8 @@
       ],
       "sortOrder" : 1834,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pg"
       ]
     },
     {
@@ -39648,7 +39989,8 @@
       ],
       "sortOrder" : 1835,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ph"
       ]
     },
     {
@@ -39665,7 +40007,8 @@
       ],
       "sortOrder" : 1836,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pk"
       ]
     },
     {
@@ -39682,7 +40025,8 @@
       ],
       "sortOrder" : 1837,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pl"
       ]
     },
     {
@@ -39699,7 +40043,8 @@
       ],
       "sortOrder" : 1838,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pm"
       ]
     },
     {
@@ -39716,7 +40061,8 @@
       ],
       "sortOrder" : 1839,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pn"
       ]
     },
     {
@@ -39733,7 +40079,8 @@
       ],
       "sortOrder" : 1840,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pr"
       ]
     },
     {
@@ -39750,7 +40097,8 @@
       ],
       "sortOrder" : 1841,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ps"
       ]
     },
     {
@@ -39767,7 +40115,8 @@
       ],
       "sortOrder" : 1842,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pt"
       ]
     },
     {
@@ -39784,7 +40133,8 @@
       ],
       "sortOrder" : 1843,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-pw"
       ]
     },
     {
@@ -39801,7 +40151,8 @@
       ],
       "sortOrder" : 1844,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-py"
       ]
     },
     {
@@ -39818,7 +40169,8 @@
       ],
       "sortOrder" : 1845,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-qa"
       ]
     },
     {
@@ -39835,7 +40187,8 @@
       ],
       "sortOrder" : 1846,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-re"
       ]
     },
     {
@@ -39852,7 +40205,8 @@
       ],
       "sortOrder" : 1847,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ro"
       ]
     },
     {
@@ -39869,7 +40223,8 @@
       ],
       "sortOrder" : 1848,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-rs"
       ]
     },
     {
@@ -39887,7 +40242,8 @@
       "sortOrder" : 1849,
       "tags" : [
         "flag",
-        "russia"
+        "russia",
+        "flag-ru"
       ]
     },
     {
@@ -39904,7 +40260,8 @@
       ],
       "sortOrder" : 1850,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-rw"
       ]
     },
     {
@@ -39921,7 +40278,8 @@
       ],
       "sortOrder" : 1851,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sa"
       ]
     },
     {
@@ -39938,7 +40296,8 @@
       ],
       "sortOrder" : 1852,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sb"
       ]
     },
     {
@@ -39955,7 +40314,8 @@
       ],
       "sortOrder" : 1853,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sc"
       ]
     },
     {
@@ -39972,7 +40332,8 @@
       ],
       "sortOrder" : 1854,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sd"
       ]
     },
     {
@@ -39989,7 +40350,8 @@
       ],
       "sortOrder" : 1855,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-se"
       ]
     },
     {
@@ -40006,7 +40368,8 @@
       ],
       "sortOrder" : 1856,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sg"
       ]
     },
     {
@@ -40023,7 +40386,8 @@
       ],
       "sortOrder" : 1857,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sh"
       ]
     },
     {
@@ -40040,7 +40404,8 @@
       ],
       "sortOrder" : 1858,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-si"
       ]
     },
     {
@@ -40057,7 +40422,8 @@
       ],
       "sortOrder" : 1859,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sj"
       ]
     },
     {
@@ -40074,7 +40440,8 @@
       ],
       "sortOrder" : 1860,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sk"
       ]
     },
     {
@@ -40091,7 +40458,8 @@
       ],
       "sortOrder" : 1861,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sl"
       ]
     },
     {
@@ -40108,7 +40476,8 @@
       ],
       "sortOrder" : 1862,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sm"
       ]
     },
     {
@@ -40125,7 +40494,8 @@
       ],
       "sortOrder" : 1863,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sn"
       ]
     },
     {
@@ -40142,7 +40512,8 @@
       ],
       "sortOrder" : 1864,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-so"
       ]
     },
     {
@@ -40159,7 +40530,8 @@
       ],
       "sortOrder" : 1865,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sr"
       ]
     },
     {
@@ -40176,7 +40548,8 @@
       ],
       "sortOrder" : 1866,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ss"
       ]
     },
     {
@@ -40193,7 +40566,8 @@
       ],
       "sortOrder" : 1867,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-st"
       ]
     },
     {
@@ -40210,7 +40584,8 @@
       ],
       "sortOrder" : 1868,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sv"
       ]
     },
     {
@@ -40227,7 +40602,8 @@
       ],
       "sortOrder" : 1869,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sx"
       ]
     },
     {
@@ -40244,7 +40620,8 @@
       ],
       "sortOrder" : 1870,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sy"
       ]
     },
     {
@@ -40261,7 +40638,8 @@
       ],
       "sortOrder" : 1871,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-sz"
       ]
     },
     {
@@ -40278,7 +40656,8 @@
       ],
       "sortOrder" : 1872,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ta"
       ]
     },
     {
@@ -40295,7 +40674,8 @@
       ],
       "sortOrder" : 1873,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tc"
       ]
     },
     {
@@ -40312,7 +40692,8 @@
       ],
       "sortOrder" : 1874,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-td"
       ]
     },
     {
@@ -40329,7 +40710,8 @@
       ],
       "sortOrder" : 1875,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tf"
       ]
     },
     {
@@ -40346,7 +40728,8 @@
       ],
       "sortOrder" : 1876,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tg"
       ]
     },
     {
@@ -40363,7 +40746,8 @@
       ],
       "sortOrder" : 1877,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-th"
       ]
     },
     {
@@ -40380,7 +40764,8 @@
       ],
       "sortOrder" : 1878,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tj"
       ]
     },
     {
@@ -40397,7 +40782,8 @@
       ],
       "sortOrder" : 1879,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tk"
       ]
     },
     {
@@ -40414,7 +40800,8 @@
       ],
       "sortOrder" : 1880,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tl"
       ]
     },
     {
@@ -40431,7 +40818,8 @@
       ],
       "sortOrder" : 1881,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tm"
       ]
     },
     {
@@ -40448,7 +40836,8 @@
       ],
       "sortOrder" : 1882,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tn"
       ]
     },
     {
@@ -40465,7 +40854,8 @@
       ],
       "sortOrder" : 1883,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-to"
       ]
     },
     {
@@ -40483,7 +40873,8 @@
       "sortOrder" : 1884,
       "tags" : [
         "flag",
-        "turkey"
+        "turkey",
+        "flag-tr"
       ]
     },
     {
@@ -40500,7 +40891,8 @@
       ],
       "sortOrder" : 1885,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tt"
       ]
     },
     {
@@ -40517,7 +40909,8 @@
       ],
       "sortOrder" : 1886,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tv"
       ]
     },
     {
@@ -40534,7 +40927,8 @@
       ],
       "sortOrder" : 1887,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tw"
       ]
     },
     {
@@ -40551,7 +40945,8 @@
       ],
       "sortOrder" : 1888,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-tz"
       ]
     },
     {
@@ -40568,7 +40963,8 @@
       ],
       "sortOrder" : 1889,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ua"
       ]
     },
     {
@@ -40585,7 +40981,8 @@
       ],
       "sortOrder" : 1890,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ug"
       ]
     },
     {
@@ -40602,7 +40999,8 @@
       ],
       "sortOrder" : 1891,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-um"
       ]
     },
     {
@@ -40619,7 +41017,8 @@
       ],
       "sortOrder" : 1892,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-un"
       ]
     },
     {
@@ -40638,7 +41037,8 @@
       "tags" : [
         "flag",
         "united",
-        "america"
+        "america",
+        "flag-us"
       ]
     },
     {
@@ -40655,7 +41055,8 @@
       ],
       "sortOrder" : 1894,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-uy"
       ]
     },
     {
@@ -40672,7 +41073,8 @@
       ],
       "sortOrder" : 1895,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-uz"
       ]
     },
     {
@@ -40689,7 +41091,8 @@
       ],
       "sortOrder" : 1896,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-va"
       ]
     },
     {
@@ -40706,7 +41109,8 @@
       ],
       "sortOrder" : 1897,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-vc"
       ]
     },
     {
@@ -40723,7 +41127,8 @@
       ],
       "sortOrder" : 1898,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ve"
       ]
     },
     {
@@ -40740,7 +41145,8 @@
       ],
       "sortOrder" : 1899,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-vg"
       ]
     },
     {
@@ -40757,7 +41163,8 @@
       ],
       "sortOrder" : 1900,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-vi"
       ]
     },
     {
@@ -40774,7 +41181,8 @@
       ],
       "sortOrder" : 1901,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-vn"
       ]
     },
     {
@@ -40791,7 +41199,8 @@
       ],
       "sortOrder" : 1902,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-vu"
       ]
     },
     {
@@ -40808,7 +41217,8 @@
       ],
       "sortOrder" : 1903,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-wf"
       ]
     },
     {
@@ -40825,7 +41235,8 @@
       ],
       "sortOrder" : 1904,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ws"
       ]
     },
     {
@@ -40842,7 +41253,8 @@
       ],
       "sortOrder" : 1905,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-xk"
       ]
     },
     {
@@ -40859,7 +41271,8 @@
       ],
       "sortOrder" : 1906,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-ye"
       ]
     },
     {
@@ -40876,7 +41289,8 @@
       ],
       "sortOrder" : 1907,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-yt"
       ]
     },
     {
@@ -40893,7 +41307,8 @@
       ],
       "sortOrder" : 1908,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-za"
       ]
     },
     {
@@ -40910,7 +41325,8 @@
       ],
       "sortOrder" : 1909,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-zm"
       ]
     },
     {
@@ -40927,7 +41343,8 @@
       ],
       "sortOrder" : 1910,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-zw"
       ]
     },
     {
@@ -40944,7 +41361,8 @@
       ],
       "sortOrder" : 1911,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-england"
       ]
     },
     {
@@ -40961,7 +41379,8 @@
       ],
       "sortOrder" : 1912,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-scotland"
       ]
     },
     {
@@ -40978,7 +41397,8 @@
       ],
       "sortOrder" : 1913,
       "tags" : [
-        "flag"
+        "flag",
+        "flag-wales"
       ]
     }
   ],

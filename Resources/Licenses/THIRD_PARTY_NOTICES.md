@@ -15,8 +15,11 @@ The alias/tag snapshot comes from GitHub's `gemoji` project at commit `0eca75db9
 
 - Repository: <https://github.com/github/gemoji>
 
-Exact source paths and SHA-256 checksums are recorded in `Vendor/SOURCES.md` and `Resources/Generated/emoji-index.provenance.json`.
+## Slack-compatible emoji-data shortcodes
 
-In the installed app, the complete license texts are included alongside this
-notice as `Colon-MIT.txt`, `Unicode.txt`, `CLDR.txt`, and `gemoji-MIT.txt`.
-The Vendor paths above refer to the source distribution.
+Standard Slack-compatible shortcode metadata comes from `iamcal/emoji-data` at commit `e77759c296ed37beb0dbd63908b43d8619509c6d`, under the MIT License in `Vendor/emoji-data/e77759c296ed37beb0dbd63908b43d8619509c6d/LICENSE`. Only metadata is bundled, not emoji artwork. Existing aliases and tags are preserved; additional shortcodes are deduplicated search tags.
+
+- Repository: <https://github.com/iamcal/emoji-data>
+- Slack source reference: <https://docs.slack.dev/messaging/formatting-message-text/>
+
+Exact source paths and SHA-256 checksums are recorded in `Vendor/SOURCES.md` and `Resources/Generated/emoji-index.provenance.json`.

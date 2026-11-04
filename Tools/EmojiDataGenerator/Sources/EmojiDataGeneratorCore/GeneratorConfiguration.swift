@@ -7,6 +7,7 @@ public enum EmojiDataSourceKind: String, Codable, CaseIterable, Hashable, Sendab
     case cldrAnnotations
     case cldrDerivedAnnotations
     case gemoji
+    case slackEmojiData
 }
 
 public struct PinnedEmojiDataSource: Codable, Sendable, Equatable {
@@ -130,6 +131,15 @@ public struct EmojiDataGeneratorConfiguration: Sendable {
                     sourceURL: "https://github.com/unicode-org/cldr/blob/release-48/common/annotationsDerived/en.xml",
                     licenseRelativePath: "Vendor/CLDR/LICENSE",
                     sha256: "d76bd041c8c9e7b00b716aff8b7d9dbf509877010e191d5efd068be2553e066e"
+                ),
+                PinnedEmojiDataSource(
+                    kind: .slackEmojiData,
+                    name: "Slack-compatible iamcal emoji-data shortcodes",
+                    version: "e77759c296ed37beb0dbd63908b43d8619509c6d",
+                    relativePath: "Vendor/emoji-data/e77759c296ed37beb0dbd63908b43d8619509c6d/emoji.json",
+                    sourceURL: "https://github.com/iamcal/emoji-data/blob/e77759c296ed37beb0dbd63908b43d8619509c6d/emoji.json",
+                    licenseRelativePath: "Vendor/emoji-data/e77759c296ed37beb0dbd63908b43d8619509c6d/LICENSE",
+                    sha256: "8736d721991e48c41c57acc46b65e5d32258a45e4bcdebcc6012f420f81e775d"
                 ),
                 PinnedEmojiDataSource(
                     kind: .gemoji,

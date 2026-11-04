@@ -19,3 +19,28 @@ enum AliasOverridesParser {
         return overrides
     }
 }
+
+/// Slack documents iamcal/emoji-data as its standard emoji shortcode source.
+/// Match Unicode scalars rather than names; ignore presentation selectors.
+enum SlackEmojiDataParser {
+    private struct Record: Decodable {
+        let unified: String
+        let short_names: [String]
+    }
+
+    static func parse(_ data: Data) throws -> [String: [String]] {
+        var result: [String: [String]] = [:]
+        for record in try JSONDecoder().decode([Record].self, from: data) {
+            let points = try record.unified.split(separator: "-").map { component in
+                guard let value = UInt32(component, radix: 16), Unicode.Scalar(value) != nil else {
+                    throw EmojiDataGeneratorError.invalidEntry(record.unified)
+                }
+                return value
+            }
+            let id = EmojiCodePoints.stableID(points)
+            result[id] = stableUnique((result[id] ?? []) + record.short_names.map(EmojiTermNormalizer.normalize))
+                .filter { !$0.isEmpty }
+        }
+        return result
+    }
+}

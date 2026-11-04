@@ -1,6 +1,6 @@
 {
   "aliasOverridesSHA256" : "f2c7db10e668bdc9abff0bc5c6087f0b0fac7995bd73aaf6fb2f783baec35cf2",
-  "datasetSHA256" : "3d221296bb7ae4826081f2e442465fa2bb5c8fac4df2717d832b5255a062c997",
+  "datasetSHA256" : "4c0488abf0591d6086257dd5a1dee628d45b8c3c5e934ff3597794de8fffdd61",
   "generatedAt" : "2026-06-26T00:00:00Z",
   "schemaVersion" : 1,
   "sources" : [
@@ -48,6 +48,15 @@
       "sha256" : "d76bd041c8c9e7b00b716aff8b7d9dbf509877010e191d5efd068be2553e066e",
       "sourceURL" : "https://github.com/unicode-org/cldr/blob/release-48/common/annotationsDerived/en.xml",
       "version" : "48"
+    },
+    {
+      "kind" : "slackEmojiData",
+      "licenseRelativePath" : "Vendor/emoji-data/e77759c296ed37beb0dbd63908b43d8619509c6d/LICENSE",
+      "name" : "Slack-compatible iamcal emoji-data shortcodes",
+      "relativePath" : "Vendor/emoji-data/e77759c296ed37beb0dbd63908b43d8619509c6d/emoji.json",
+      "sha256" : "8736d721991e48c41c57acc46b65e5d32258a45e4bcdebcc6012f420f81e775d",
+      "sourceURL" : "https://github.com/iamcal/emoji-data/blob/e77759c296ed37beb0dbd63908b43d8619509c6d/emoji.json",
+      "version" : "e77759c296ed37beb0dbd63908b43d8619509c6d"
     },
     {
       "kind" : "gemoji",

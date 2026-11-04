@@ -4,6 +4,29 @@ import XCTest
 @testable import EmojiDataGeneratorCore
 
 final class EmojiDataGeneratorCoreTests: XCTestCase {
+    func testSlackShortcodesAreAUniqueUnionWithExistingTerms() throws {
+        let generator = makeGenerator()
+        let source = try generator.configuration.source(for: .slackEmojiData)
+        let shortcodes = try SlackEmojiDataParser.parse(
+            Data(contentsOf: generator.configuration.url(for: source))
+        )
+        let dataset = try generator.generate().dataset
+        for entry in dataset.entries {
+            let terms = [entry.canonicalAlias] + entry.alternateAliases + entry.tags
+            XCTAssertEqual(terms.count, Set(terms).count, entry.id.rawValue)
+            XCTAssertTrue(Set(shortcodes[entry.id.rawValue] ?? []).isSubset(of: Set(terms)), entry.id.rawValue)
+        }
+        // Slack's fist is a different emoji from Colon's existing canonical fist.
+        let raisedFist = try XCTUnwrap(dataset.entries.first { $0.id.rawValue == "270a" })
+        XCTAssertTrue(raisedFist.tags.contains("fist"))
+        XCTAssertEqual(dataset.entries.first { $0.id.rawValue == "1f44a" }?.canonicalAlias, "fist")
+    }
+
+    func testSlackParserMergesPresentationVariantsAndDuplicateNames() throws {
+        let input = Data(#"[{"unified":"263A-FE0F","short_names":["relaxed","relaxed"]},{"unified":"263A","short_names":["smiling_face","relaxed"]}]"#.utf8)
+        XCTAssertEqual(try SlackEmojiDataParser.parse(input)["263a"], ["relaxed", "smiling_face"])
+    }
+
     func testNormalizerPreservesApprovedQueryCharacters() {
         XCTAssertEqual(EmojiTermNormalizer.normalize("  C++ thumbs up  "), "c++_thumbs_up")
         XCTAssertEqual(EmojiTermNormalizer.normalize("flag: United States"), "flag_united_states")

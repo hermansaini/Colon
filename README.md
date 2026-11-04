@@ -127,6 +127,11 @@ edge. If the host cannot supply a caret position, it stays hidden. While editing
 an existing query back to a bare colon or an unmatched name, the last results
 remain visible but disabled until a match returns.
 
+Standard Slack-compatible shortcodes are included as additional search tags,
+merged with existing aliases and tags without duplicates. Existing aliases keep
+their priority when names overlap. Workspace-specific custom Slack emoji are not
+included. The pinned source is documented in [data sources](Vendor/SOURCES.md).
+
 ### Choose and remember skin tones
 
 Type `:wave`, select the waving hand, and press **Tab** to cycle its available
