@@ -68,3 +68,19 @@ results and explicit live-test limits. Use `Tests/Fixtures/compatibility.html` i
 Chrome/Safari for synthetic plain, multiline, rich, and password-field checks;
 it has no scripts, forms, persistent storage, or network resources. Do not mark
 an app row passed based solely on core/model tests.
+
+## Colon 1.0 release candidate (build 4)
+
+On macOS 26.3 (25D2125), the full Release CI script passed, including package
+and companion tests, data regeneration checks, both app builds, and bundle
+validation. The release benchmark measured 3.05 ms p95 over 1,500 queries
+(target: under 5 ms).
+
+The DMG downloaded from the GitHub draft matched its SHA-256 checksum.
+The disk image, companion, and input method passed notarization ticket
+validation. Gatekeeper accepted both binaries from the mounted download, and
+both reported version 1.0.
+
+Clean installation and live host, secure-field, display, and interaction checks
+remain pending. The test Mac has a system-wide development input method, and
+this session lacks permission to automate native app interactions.

@@ -36,14 +36,22 @@ if [ -e "$dmg" ]; then
     exit 1
 fi
 if [ "$mode" = --notarize ]; then
-    for bundle in "$input_method" "$app"; do
+    sign_bundle() {
+        bundle=$1
         codesign --force --options runtime --timestamp --sign "$COLON_RELEASE_SIGNING_IDENTITY" "$bundle"
         codesign --verify --deep --strict "$bundle"
-        codesign -dv "$bundle" 2>&1 | grep -q '^Authority=Developer ID Application:'
-    done
+        codesign -dvv "$bundle" 2>&1 | grep -q '^Authority=Developer ID Application:'
+    }
+    # The companion seals this embedded input method as a resource. Finish
+    # stapling the nested ticket before signing the enclosing companion.
+    sign_bundle "$input_method"
+    ditto -c -k --keepParent "$input_method" "${staging_directory}/input-method.zip"
+    xcrun notarytool submit "${staging_directory}/input-method.zip" --keychain-profile "$COLON_NOTARY_PROFILE" --wait
+    xcrun stapler staple "$input_method"
+    xcrun stapler validate "$input_method"
+    sign_bundle "$app"
     ditto -c -k --keepParent "$app" "${staging_directory}/submission.zip"
     xcrun notarytool submit "${staging_directory}/submission.zip" --keychain-profile "$COLON_NOTARY_PROFILE" --wait
-    xcrun stapler staple "$input_method"
     xcrun stapler staple "$app"
     xcrun stapler validate "$app"
     spctl --assess --type execute --verbose "$app"
